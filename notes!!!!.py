@@ -1,3 +1,3 @@
 #prints :)
 #how to make one
-print(10)
+print('example yay')
