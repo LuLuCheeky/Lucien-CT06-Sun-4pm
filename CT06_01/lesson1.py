@@ -118,3 +118,4 @@ print('LUCIEN AHAHAHAHA')
 
 print('hello world')
 print('my favourite food is mcdonalds')
+print()
