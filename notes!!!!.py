@@ -2,4 +2,4 @@
 #how to make one
 print('example yay')
 #joining prints
-print()
+print('example' and 'yay')
