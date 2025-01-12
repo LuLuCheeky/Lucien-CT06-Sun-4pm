@@ -119,3 +119,11 @@ print('LUCIEN AHAHAHAHA')
 print('hello world')
 print('my favourite food is mcdonalds')
 print('my birthday is on may the fourth')
+
+print('Hello' and 'how are you?')
+
+print("What is wrong with this")
+
+print("Why is this not working?")
+
+Prnt("Why is this not working?")
