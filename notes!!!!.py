@@ -1,3 +1,4 @@
 #prints :)
 #how to make one
-print()
+print('example yay')
+#
