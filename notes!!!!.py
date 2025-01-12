@@ -3,4 +3,4 @@
 print('example yay')
 #joining prints
 print('example' and 'yay')
-#so like 
+#so like at 'yay' can put varible
