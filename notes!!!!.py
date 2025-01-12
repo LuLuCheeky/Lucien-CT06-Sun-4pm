@@ -1,4 +1,4 @@
 #prints :)
 #how to make one
 print('example yay')
-print
+#printing values
