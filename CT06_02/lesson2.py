@@ -10,5 +10,5 @@ Age = (11)
 print(Age)
 
 x = 10
-20 = x
+x = 20
 print(x)
