@@ -16,6 +16,7 @@ print("yellow")
 # check material of object
 # if material is metal or plastic or glass then
 #     print("can recycle")
-#     
+#     put object in recycle bin
 # else
 #     print("cannot recycle")
+#     put object in general waste bin
