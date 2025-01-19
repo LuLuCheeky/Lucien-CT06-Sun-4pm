@@ -15,4 +15,4 @@ print("yellow")
 
 # check material of object
 # if material is metal or plastic or glass
-#     
+#    print("recycle")   
