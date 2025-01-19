@@ -13,11 +13,11 @@ print("Hello from lesson 2")
 # x = 20
 # print(x)
 
-for i in range(1, 11):
-    print(i)
+for i in range(1, 100):
+    
 # Program to check if a number is prime or not
 
-num = 29
+    num = 29
 
 # To take input from the user
 #num = int(input("Enter a number: "))
