@@ -17,7 +17,7 @@ for i in range(1, 10):
     
 # Program to check if a number is prime or not
 
-    num = 29
+    num = range
 
 # To take input from the user
 #num = int(input("Enter a number: "))
