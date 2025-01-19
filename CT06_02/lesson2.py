@@ -20,3 +20,4 @@ print("yellow")
 
 for i in range(100):
     range * 6 + 1
+    print(range)
