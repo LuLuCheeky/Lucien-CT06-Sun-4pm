@@ -9,6 +9,4 @@ print("Hello from lesson 2")
 Age = (11)
 print(Age)
 
-x = 10
-x = 20
-print(x)
+1 = 
