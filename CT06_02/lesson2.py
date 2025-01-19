@@ -17,3 +17,8 @@ print("yellow")
 #     say "Hey!"
 #     move 10 steps
 # end 
+
+for i in range(10):
+    print("Hey!")
+    print("move 10 steps")
+end
