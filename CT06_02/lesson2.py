@@ -7,5 +7,5 @@ print("Hello from lesson 2")
 # Using comments, translate the code shown on screen into pseudocode.
 
 Age(69)
-print()
+print(A)
 
