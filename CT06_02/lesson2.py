@@ -11,3 +11,4 @@ print(Age)
 
 x = 10
 20 = x
+print(x)
