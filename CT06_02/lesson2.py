@@ -17,7 +17,3 @@ print("yellow")
 #     say "Hey!"
 #     move 10 steps
 # end 
-
-for i in range(100):
-    range * 6 + 1
-    print(range)
