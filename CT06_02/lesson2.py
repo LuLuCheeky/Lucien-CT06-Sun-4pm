@@ -13,3 +13,6 @@ print("yellow")
 # print("indigo")
 # print("violet")
 
+# check material of object
+# if material is metal or plastic or glass
+    
