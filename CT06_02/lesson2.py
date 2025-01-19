@@ -13,4 +13,4 @@ print("yellow")
 # print("indigo")
 # print("violet")
 
-ask input "What is your score of test 1?"
+score_test_1 = input("What is your score of test 1?")
