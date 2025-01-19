@@ -9,3 +9,7 @@ print("red")
 print("red")
 print("red")
 print("red")
+print("red")
+print("red")
+print("red")
+
