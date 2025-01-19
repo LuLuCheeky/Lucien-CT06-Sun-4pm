@@ -17,3 +17,9 @@ print("yellow")
 #     say "Hey!"
 #     move 10 steps
 # end 
+
+# set variable "counter" to 0
+# repeat until counter = 50
+#     move 10 steps
+#     turn 15 degrees
+#     change counter to 10
