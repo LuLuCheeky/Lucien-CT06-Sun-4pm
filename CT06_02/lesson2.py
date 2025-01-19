@@ -9,3 +9,5 @@ print("Hello from lesson 2")
 Age = (11)
 print(Age)
 
+x = 10
+20 = x
