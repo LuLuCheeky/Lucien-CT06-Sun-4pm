@@ -12,9 +12,3 @@ print("yellow")
 # print("blue")
 # print("indigo")
 # print("violet")
-
-# ask input "What is your age?"
-# if answer is less than 18
-#     print("Access denied")
-# else
-#     print("Welcome!")
