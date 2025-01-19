@@ -18,5 +18,5 @@ print("yellow")
 #     move 10 steps
 # end 
 
-for i in range(10):
-    range 
+for i in range(100):
+    range * 6 + 1
