@@ -13,7 +13,3 @@ print("yellow")
 # print("indigo")
 # print("violet")
 
-# repeat (10)
-#     say "Hey!"
-#     move 10 steps
-# end 
