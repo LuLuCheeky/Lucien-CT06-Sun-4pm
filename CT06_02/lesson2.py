@@ -13,3 +13,4 @@ print("yellow")
 # print("indigo")
 # print("violet")
 
+ask input "What is your score of test 1?"
