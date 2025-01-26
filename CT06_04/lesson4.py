@@ -1,3 +1,4 @@
 
-name = input('What is your name?\n')     # \n ---> newline  ---> It causes a line break
-print(name)
+red = input("How many red plates")
+red = input("How many red plates")
+red = input("How many red plates")
