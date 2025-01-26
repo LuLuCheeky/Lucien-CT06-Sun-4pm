@@ -6,4 +6,4 @@ green = 3
 total = (3 * red) + (5 * blue) + (4 * green)
 print("You have spent a total of $" + str(total))
 
-red = input("")
+red = input("How many red plates")
