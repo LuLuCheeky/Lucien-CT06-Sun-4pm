@@ -1,2 +1,2 @@
 
-red = input()
+red = input("How many red plag")
