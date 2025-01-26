@@ -9,3 +9,4 @@ total = (Red * NumRed) + (blue * NumBlue) + (green * NumGreen)
 print(Name + ", you owe us $" + str(total))
 
 10 = 10
+11 = int 
