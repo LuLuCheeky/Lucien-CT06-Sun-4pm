@@ -4,4 +4,4 @@ green = 3
 NumRed = int(input("How many red plates"))
 NumBlue = int(input("How many red plates"))
 NumGreen = int(input("How many red plates"))
-total = (Red * NumRed) + (blue)
+total = (Red * NumRed) + (blue * NumBlue) + (green * NumGreen)
