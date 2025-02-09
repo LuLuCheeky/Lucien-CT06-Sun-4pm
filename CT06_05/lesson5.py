@@ -14,3 +14,6 @@
 # if Age 
 
 # print("Happy" + Age + "th brithday" + Name + "!" + Message )
+
+for i in range(1, 100):
+    print
