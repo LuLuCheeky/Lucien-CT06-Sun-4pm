@@ -18,9 +18,9 @@
 for i in range(1, 6):
     print(i)
 
-for i in range(51, 101):
-    print(i)
+# for i in range(51, 101):
+#     print(i)
 
-for i in range(18, 29):
-    print
+# for i in range(18, 29):
+#     print(i)
 
