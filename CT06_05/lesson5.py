@@ -3,6 +3,6 @@
 
 Name = input("Whats the participant's name? ")
 Age = input("How old is the participant? ")
-Mesage = input("Give the participant a personalised massage: ")
+Message = input("Give the participant a personalised massage: ")
 
-print("Happy" , Age , "th brithday")
+print("Happy" , Age , "th brithday" , Name , "!" , Message )
