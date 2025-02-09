@@ -22,7 +22,8 @@
 # for i in range(start, stop + 1):
 #     print(i)
 
-starting = input("")
+starting = input("Sarting?")
+
 total = 0
 
 for i in range(0, 10):
