@@ -2,9 +2,9 @@
 # print('You were born in' ,  2025 - int(age) , '.')
 
 Name = input("Whats the participant's name? ")
-YearBron = int(input("What year was the participant born in? "))
+YearBorn = int(input("What year was the participant born in? "))
 Message = input("Give the participant a personalised massage: ")
 
-TrueAge = 2025 - Age
+Age = 2025 - Age
 
 print("Happy" , Age , "th brithday" , Name , "!" , Message )
