@@ -15,4 +15,6 @@
 
 # print("Happy" + Age + "th brithday" + Name + "!" + Message )
 
+for i in range(1, 6):
+    print(i)
 
