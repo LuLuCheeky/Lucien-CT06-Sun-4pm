@@ -39,5 +39,5 @@ howManyTree = 1
 for i in range(num, end):
     spacing = end*end - num
     spacing = spacing / 2
-    print(spacingSymbol * spacing , howManyTree * num , spacingSymbol)
+    print(spacingSymbol * spacing , howManyTree * num , spacingSymbol * spacing)
     howManyTree = howManyTree + add
