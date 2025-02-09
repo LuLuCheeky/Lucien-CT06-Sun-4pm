@@ -16,4 +16,4 @@
 # print("Happy" + Age + "th brithday" + Name + "!" + Message )
 
 for i in range(0, 50):
-    print
+    print('I LIKE CAKE')
