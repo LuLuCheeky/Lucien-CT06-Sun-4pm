@@ -2,4 +2,4 @@
 # print('You were born in' ,  2025 - int(age) , '.')
 
 Name = input("Whats the participant's name?")
-Age = input("")
+Age = input("How old is the participant?")
