@@ -22,7 +22,7 @@
 # for i in range(start, stop + 1):
 #     print(i)
 
-starting = input("Sarting?")
+starting = input("Add until? ")
 
 total = 0
 
