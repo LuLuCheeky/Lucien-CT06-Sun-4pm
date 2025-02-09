@@ -5,6 +5,6 @@ Name = input("Whats the participant's name? ")
 YearBorn = int(input("What year was the participant born in? "))
 Message = input("Give the participant a personalised massage: ")
 
-Age = 2025 - Age
+Age = 2025 - YearBorn
 
 print("Happy" , Age , "th brithday" , Name , "!" , Message )
