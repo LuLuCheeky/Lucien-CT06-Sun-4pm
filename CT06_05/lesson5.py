@@ -22,4 +22,6 @@
 # for i in range(start, stop + 1):
 #     print(i)
 
-print ('      *      ')
+num = 0
+for i in range(0, 10):
+    num = 
