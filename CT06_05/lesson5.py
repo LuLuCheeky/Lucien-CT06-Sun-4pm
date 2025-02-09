@@ -15,12 +15,5 @@
 
 # print("Happy" + Age + "th brithday" + Name + "!" + Message )
 
-# for i in range(1, 6):
-#     print(i)
-
-for i in range(51, 101):
-    print(i)
-
-# for i in range(18, 29):
-#     print(i)
-
+for i in range(2, 25, 2):
+    
