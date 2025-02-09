@@ -38,6 +38,6 @@ for i in range(1, 100):
 
     # check if flag is True
         if flag:
-            print(num, "gay")
+            print(num, "not a ")
         else:
             print(num, "is a prime number")
