@@ -17,8 +17,7 @@
 
 start = int(input('staring? '))
 stop = int(input('stopping? '))
-if start > stop:
-    f
+    
 
 for i in range(start, stop + 1):
     print(i)
