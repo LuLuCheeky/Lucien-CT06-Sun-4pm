@@ -22,7 +22,7 @@
 # for i in range(start, stop + 1):
 #     print(i)
 
-to
+total = input("")
 
 
 for i in range(0, 10):
