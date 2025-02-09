@@ -18,4 +18,4 @@
 start = int(input('staring? '))
 stop = int(input('stopping? '))
 for i in range(start, stop):
-    print()
+    print(i)
