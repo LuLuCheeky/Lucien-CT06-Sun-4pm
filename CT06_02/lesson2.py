@@ -37,5 +37,5 @@ for i in range(1, 100):
                 break
 
     # check if flag is True
-        if  flag:
+        if not flag:
             print(num, "is a prime number")
