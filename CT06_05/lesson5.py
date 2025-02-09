@@ -22,8 +22,9 @@
 # for i in range(start, stop + 1):
 #     print(i)
 
-total = input("")
+total = starting 
 
+num = 0
 
 for i in range(0, 10):
     num = num + i
