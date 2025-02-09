@@ -15,5 +15,5 @@
 
 # print("Happy" + Age + "th brithday" + Name + "!" + Message )
 
-for i in range(1, 100):
+for i in range(0, 100, ):
     print('I LIKE CHICKEN RICE!!!!!!!!')
