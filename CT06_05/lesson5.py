@@ -15,4 +15,4 @@
 
 # print("Happy" + Age + "th brithday" + Name + "!" + Message )
 
-stsrt = input()
+stsrt = input('staring? ')
