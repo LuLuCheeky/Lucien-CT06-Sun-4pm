@@ -7,4 +7,4 @@ Message = input("Give the participant a personalised massage: ")
 
 Age = 2025 - YearBorn
 
-print("Happy" , Age , "th brithday" , Name , "!" , Message )
+print("Happy" + Age + "th brithday" + Name , "!" , Message )
