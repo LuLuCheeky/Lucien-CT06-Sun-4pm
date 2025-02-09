@@ -26,6 +26,6 @@ starting = int(input("Add until? "))
 
 total = 0
 
-for i in range(0, 10):
+for i in range(0, int + 1):
     num = num + i
 print(num)
