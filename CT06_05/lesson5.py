@@ -15,5 +15,7 @@
 
 # print("Happy" + Age + "th brithday" + Name + "!" + Message )
 
-start = input('staring? ')
-stop = input()
+start = int(input('staring? '))
+stop = int(input('stopping? '))
+for i in range(start, stop):
+    print()
