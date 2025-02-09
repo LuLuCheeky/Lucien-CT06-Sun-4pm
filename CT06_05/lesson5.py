@@ -22,10 +22,12 @@
 # for i in range(start, stop + 1):
 #     print(i)
 
-starting = int(input("Add until? "))
+# starting = int(input("Add until? "))
 
-total = 0
+# total = 0
 
-for i in range(0, starting + 1):
-    num = num + i
-print(num)
+# for i in range(0, starting + 1):
+#     num = num + i
+# print(num)
+
+num = 0
