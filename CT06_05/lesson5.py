@@ -15,12 +15,4 @@
 
 # print("Happy" + Age + "th brithday" + Name + "!" + Message )
 
-for i in range(2, 25, 2):
-    print(i)
 
-for i in range(8, 96, 8):
-    print(i)
-
-for i in range(5, 0, -1):
-    print(i)
-    
