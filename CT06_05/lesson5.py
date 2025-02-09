@@ -16,4 +16,5 @@
 # print("Happy" + Age + "th brithday" + Name + "!" + Message )
 num = 0
 for i in range(0, 60):
-    print(n)
+    print(num)
+    num = num + 1
