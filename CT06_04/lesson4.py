@@ -7,3 +7,6 @@ NumBlue = int(input("How many red plates? "))
 NumGreen = int(input("How many red plates? "))
 total = (Red * NumRed) + (blue * NumBlue) + (green * NumGreen)
 print(Name + ", you owe us $" + str(total))
+
+for i in range (1, 10):
+    print("HELPPP")
