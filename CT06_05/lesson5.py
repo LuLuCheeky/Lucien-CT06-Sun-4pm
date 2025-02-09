@@ -7,5 +7,7 @@ Message = input("Give the participant a personalised massage: ")
 
 Age = 2025 - YearBorn
 
+if Age is 11 or 12 or 13:
+    Age
 
 print("Happy" + Age + "th brithday" + Name + "!" + Message )
