@@ -40,4 +40,4 @@ for i in range(num, end):
     spacing = end*end - num
     spacing = spacing / 2
     print(spacingSymbol * spacing , howManyTree * num)
-
+    
