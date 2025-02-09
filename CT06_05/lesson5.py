@@ -20,3 +20,5 @@ for i in range(2, 25, 2):
 
 for i in range(8, 96, 8):
     print(i)
+
+for i in range(6, 1, -1)
