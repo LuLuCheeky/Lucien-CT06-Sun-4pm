@@ -30,4 +30,14 @@
 #     num = num + i
 # print(num)
 
-num = 0
+num = 1
+end = 3
+spacingSymbol = ' '
+tree = '*'
+add = 2
+howManyTree = 1
+for i in range(num, end):
+    spacing = end*end - num
+    spacing = spacing / 2
+    print(spacingSymbol * spacing , howManyTree * num)
+
