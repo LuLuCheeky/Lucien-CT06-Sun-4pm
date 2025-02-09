@@ -38,6 +38,6 @@ for i in range(1, 100):
 
     # check if flag is True
         if flag:
-            print(num, "not a ")
+            print(num, "is not a prime number")
         else:
             print(num, "is a prime number")
