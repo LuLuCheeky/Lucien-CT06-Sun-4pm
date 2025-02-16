@@ -11,5 +11,8 @@
 
 
 
-
+age = 69
 print(age)
+
+name = "Alice"
+print(nam)
