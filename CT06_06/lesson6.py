@@ -10,14 +10,6 @@
 # print("The average score of all the students were " + str(totalMarks / numStu))
 
 
+age = 25
+print(age + 1)
 
-age = 69
-print(age)
-
-name = "Alice"
-print(name)
-
-x = 5
-print(x)
-
-print("Hello, World!")
