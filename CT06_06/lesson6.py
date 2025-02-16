@@ -1,3 +1,3 @@
 # print("Hello from lesson 6")
 
-numStu = input("How many ")
+numStu = int(input("How many students in the class are there? "))
