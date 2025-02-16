@@ -8,3 +8,10 @@ for i in range(numStu):
     totalMarks = totalMarks + int(input("How much did student number " + str(stu) + " get? " ))
     stu = stu + 1
 print("The average score of all the students were " + str(totalMarks / numStu))
+
+
+
+
+for i in range(3):
+    print("Hello, World!")
+
