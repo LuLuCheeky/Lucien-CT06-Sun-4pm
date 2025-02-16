@@ -13,7 +13,7 @@ print("Hello from lesson 2")
 # x = 20
 # print(x)
 
-for i in range(1, 101):
+for i in range(1, 99999999999999):
     
 # Program to check if a number is prime or not
 
