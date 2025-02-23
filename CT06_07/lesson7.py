@@ -1,1 +1,1 @@
-num = int(input())
+num = int(input("What number? "))
