@@ -1,5 +1,1 @@
-total = 0
-for i in range(1, 6):
-    total = total + int(input("What is number #" + str(i) + " ? "))
-
-print(total)
+num = int)
