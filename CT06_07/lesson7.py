@@ -1,2 +1,5 @@
 word = input("What word? ")
-num = int()
+num = int(input("How many times? "))
+
+for i in range(num):
+    
