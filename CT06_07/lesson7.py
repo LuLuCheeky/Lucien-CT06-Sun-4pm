@@ -1,3 +1,4 @@
 num = int(input("What number? "))
 for i in range(1, 13):
-    print(str(num) + "")
+    num2 = num * i
+    print(str(num) + " x " + i + "=" + num2)
