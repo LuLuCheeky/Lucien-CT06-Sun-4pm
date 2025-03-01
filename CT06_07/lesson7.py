@@ -6,4 +6,4 @@
 dist = int(input("How much is the distance to the place you are driving to? "))
 timeLimit = int(input("How long can the drive be? "))
 maxSpeed = 120
-print("You should drive at the average speed of" , str(maxSpeed / dist) + ".")
+print("You should drive at the average speed of" , str(timeLimit / d) + ".")
