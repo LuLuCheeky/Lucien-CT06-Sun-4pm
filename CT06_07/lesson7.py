@@ -3,3 +3,4 @@
 #    num2 = num * i
 #    print(str(num) + " x " + str(i) + " = " + str(num2))
 
+dist = input("")
