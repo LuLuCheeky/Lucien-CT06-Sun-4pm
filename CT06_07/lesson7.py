@@ -3,4 +3,4 @@
 #    num2 = num * i
 #    print(str(num) + " x " + str(i) + " = " + str(num2))
 
-dist = input("How much is the dist")
+dist = input("How much is the distance to the place you are driving to? ")
