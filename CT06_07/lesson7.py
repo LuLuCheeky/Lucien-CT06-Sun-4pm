@@ -4,4 +4,5 @@
 #    print(str(num) + " x " + str(i) + " = " + str(num2))
 
 dist = input("How much is the distance to the place you are driving to? ")
+maxSpeed = 100
 print("You should drive at the average speed of" , str())
