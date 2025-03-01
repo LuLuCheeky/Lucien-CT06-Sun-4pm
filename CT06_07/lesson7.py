@@ -3,6 +3,7 @@
 #    num2 = num * i
 #    print(str(num) + " x " + str(i) + " = " + str(num2))
 
+#
 dist = int(input("How much is the distance to the place you are driving to? "))
 timeLimit = int(input("How long can the drive be? "))
 maxSpeed = 120
