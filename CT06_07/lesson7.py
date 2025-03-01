@@ -4,4 +4,4 @@
 #    print(str(num) + " x " + str(i) + " = " + str(num2))
 
 dist = input("How much is the distance to the place you are driving to? ")
-print("You should ")
+print("You should drive ")
