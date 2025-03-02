@@ -6,4 +6,4 @@ for i in range(10, 0, -1):
 
 #task (2)
 import time
-f
+input
