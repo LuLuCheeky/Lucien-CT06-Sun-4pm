@@ -25,5 +25,5 @@
 # if trueOrFalse == 1:
 #     num = 1000
 #     while not num == 1
-
+import random
 num1 = random.randint()
