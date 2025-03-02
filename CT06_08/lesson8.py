@@ -34,6 +34,3 @@ print(total)
 
 
 
-
-
-
