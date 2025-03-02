@@ -21,4 +21,4 @@
 
 # sols rng!!!
 
-trueOrFalse = input("")
+trueOrFalse = input("Roll? (1, 2) ")
