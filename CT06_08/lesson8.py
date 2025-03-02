@@ -21,3 +21,4 @@
 
 # sols rng!!!
 
+trueOrFalse = input("")
