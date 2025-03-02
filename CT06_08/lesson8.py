@@ -22,3 +22,5 @@
 # sols rng!!!
 
 trueOrFalse = input("Roll? (1, 2) ")
+if trueOrFalse == 1:
+    
