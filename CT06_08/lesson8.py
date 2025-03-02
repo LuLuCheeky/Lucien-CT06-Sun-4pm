@@ -9,4 +9,4 @@ import time
 time = int(input("What is the seconds you want to countdown form?"))
 for i in range(time, 0 , -1):
     print(i)
-    
+    time.sleep(1)
