@@ -14,3 +14,4 @@
 
 import random
 
+print(random.ranint(1, 6 ))
