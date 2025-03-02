@@ -21,10 +21,10 @@
 
 # sols rng!!!
 
-#print("")
-# if trueOrFalse == 1:
-#     num = 1000
-#     while not num == 1
+print("Rolling")
+num = 1000
+while not num == 1:
+    num = random.random
 
 import random
 num1 = random.randint(1, 50)
