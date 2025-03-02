@@ -14,4 +14,4 @@
 
 import random
 
-print(random.ranint(1, 6 ))
+print(random.randint(1, 6 ))
