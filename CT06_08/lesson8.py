@@ -26,3 +26,4 @@
 #     num = 1000
 #     while not num == 1
 
+num1 = rand
