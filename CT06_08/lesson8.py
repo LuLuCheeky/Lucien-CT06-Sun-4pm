@@ -21,6 +21,8 @@
 
 # sols rng!!!
 
-trueOrFalse = input("Roll? (1, 2) ")
-if trueOrFalse == 1:
-    
+# trueOrFalse = input("Roll? (1, 2) ")
+# if trueOrFalse == 1:
+#     num = 1000
+#     while not num == 1
+
