@@ -25,6 +25,7 @@
 # if trueOrFalse == 1:
 #     num = 1000
 #     while not num == 1
+
 import random
 num1 = random.randint(1, 50)
 num2 = random.randint(1, 50)
