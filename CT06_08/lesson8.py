@@ -12,9 +12,11 @@
 #     time.sleep(1)
 
 
-import random
+# import random
 
-print(random.randint(1, 6 ))
+# print(random.randint(1, 6 ))
 
-for i in range(1, 21):
-    print(0 , 9999)
+# for i in range(1, 21):
+#     print(0 , 9999)
+
+# sols rng!!!
