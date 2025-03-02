@@ -21,7 +21,8 @@
 
 # sols rng!!!
 
-print("Rolling") = 2
+print("Rolling")
+num = 2
 while not num == 1:
     num = random.random
 
