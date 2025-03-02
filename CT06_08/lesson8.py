@@ -3,4 +3,4 @@ for i in range(1, 6):
     2 = input("Whats the second number? ")
     3 = input("Whats the third number? ")
     4 = input("Whats the fourth number? ")
-    5 = inout("")
+    5 = input("Whats the fifth number? ")
