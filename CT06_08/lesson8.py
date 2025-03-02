@@ -5,4 +5,5 @@ for i in range(10, 0, -1):
     time.sleep(1)
 
 #task (2)
-import sass
+import time
+f
