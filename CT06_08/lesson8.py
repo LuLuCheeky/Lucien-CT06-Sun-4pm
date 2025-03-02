@@ -3,5 +3,5 @@ for i in range(1, 6):
     2 = int(input("Whats the second number? "))
     3 = int(input("Whats the third number? "))
     4 = int(input("Whats the fourth number? "))
-    5 = int(input("Whats the fifth number? "))
-print (str(1))
+    e = int(input("Whats the fifth number? "))
+print (str())
