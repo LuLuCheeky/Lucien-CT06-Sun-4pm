@@ -23,7 +23,7 @@
 import random
 import time
 
-
+while
 while not Try == 1:
     num = 2
     print("Rolling...")
