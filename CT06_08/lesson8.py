@@ -21,7 +21,7 @@
 
 # sols rng!!!
 import random
-import 
+import time
 
 print("Rolling...")
 num = 2
@@ -30,6 +30,7 @@ while not Try == 1:
     Try = random.randint
     if Try != 1:
         print("You got Common!")
+        wait
 print("You got rare!")
     
 
