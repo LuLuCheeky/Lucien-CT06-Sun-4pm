@@ -23,10 +23,9 @@
 import random
 import time
 
-print("Rolling...")
-num = 2
-Try = 0
+
 while not Try == 1:
+    print("Rolling...")
     Try = random.randint(1, num)
     if not Try == 1:
         print("You got Common!")
