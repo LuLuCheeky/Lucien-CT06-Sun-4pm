@@ -45,7 +45,7 @@ Try = 0
 while not Try == 1:
     num = 2
     if num == Common:
-        Ra
+        Rarity 
     print("Rolling...")
     Try = random.randint(1, num)
     if not Try == 1:
