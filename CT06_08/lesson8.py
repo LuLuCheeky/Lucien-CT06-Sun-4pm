@@ -24,7 +24,7 @@
 print("Rolling")
 num = 2
 while not num == 1:
-    num = random.random
+    try = random.randint
 
 import random
 num1 = random.randint(1, 50)
