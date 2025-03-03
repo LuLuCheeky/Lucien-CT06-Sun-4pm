@@ -27,7 +27,7 @@ print("Rolling...")
 num = 2
 Try = 0
 while not Try == 1:
-    Try = random.randint
+    Try = random.randint(1, num)
     if not Try == 1:
         print("You got Common!")
         time.sleep(1)
