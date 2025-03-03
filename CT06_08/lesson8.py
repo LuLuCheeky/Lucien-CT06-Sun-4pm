@@ -27,11 +27,8 @@ num = 2
 Try = 0
 while not Try == 1:
     Try = random.randint
+    if Try != 1:
+        print()
     
 
-import random
-num1 = random.randint(1, 50)
-num2 = random.randint(1, 50)
-total = num1 + num2
-Ask = int(input("Whats is " + str(num1) + " + " + str(num2) + "? "))
-print(Ask == total)
+
