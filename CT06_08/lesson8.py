@@ -33,8 +33,9 @@ Unique = 64
 Gemstone = 128
 Transcendent = 256
 Legendary = 512
-Mythic = 512
-Exotic = 1024
+Mythic = 1024
+Exotic = 2048
+
 
 
 
