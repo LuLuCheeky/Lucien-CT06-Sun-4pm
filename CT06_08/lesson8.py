@@ -47,7 +47,7 @@ while not Try == 1:
     print("Rolling...")
     Try = random.randint(1, num)
     if not Try == 1:
-        print("You got" ,  )
+        print("You got" , )
         time.sleep(1)
     num = num + 2
 
