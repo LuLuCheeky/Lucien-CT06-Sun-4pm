@@ -24,10 +24,10 @@ import random
 import time
 
 Worthless = 1
-
+Trash = 2
 Common = 4
 Uncommon = 8
-Rare = 8
+Rare = 16
 Epic = 16
 Unique = 32
 
