@@ -34,7 +34,7 @@ Transcendent = 128
 Legendary = 256
 Mythic = 512
 Exotic = 1024
- 
+
 
 
 Try = 0
