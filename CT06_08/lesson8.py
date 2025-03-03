@@ -37,7 +37,7 @@ Mythic = 1024
 Exotic = 2048
 Divine = 4096
 Blessed = 8192
-Holy
+
 
 
 
