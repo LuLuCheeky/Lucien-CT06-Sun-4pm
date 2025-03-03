@@ -23,8 +23,8 @@
 import random
 import time
 
-Worthless = 1
-Trash = 2
+Worthless = "1"
+Trash = "2"
 Common = 4
 Uncommon = 8
 Rare = 16
