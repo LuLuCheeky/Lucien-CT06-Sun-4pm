@@ -26,6 +26,7 @@ num = 2
 Try = 0
 while not num == 1:
     Try = random.randint
+    
 
 import random
 num1 = random.randint(1, 50)
