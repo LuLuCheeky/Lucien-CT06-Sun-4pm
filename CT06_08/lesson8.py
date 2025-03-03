@@ -31,6 +31,8 @@ while not Try == 1:
     if not Try == 1:
         print("You got Common!")
         time.sleep(1)
+        print("Rolling...")
+        time.sleep(1)
         
 print("You got rare!")
     
