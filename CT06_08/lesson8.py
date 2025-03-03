@@ -23,7 +23,7 @@
 import random
 import time
 
-
+Rare = 2
 Try = 0
 while not Try == 1:
     num = 2
