@@ -33,6 +33,7 @@ Unique = 64
 Transcendent = 128
 Legendary = 256
 Mythic = 512
+Exotic = 1024
  
 
 
