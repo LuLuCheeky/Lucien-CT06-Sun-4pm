@@ -23,6 +23,7 @@
 import random
 import time
 
+Common = 1
 Rare = 2
 
 Try = 0
