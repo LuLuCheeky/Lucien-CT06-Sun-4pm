@@ -21,6 +21,7 @@
 
 # sols rng!!!
 import random
+import 
 
 print("Rolling...")
 num = 2
