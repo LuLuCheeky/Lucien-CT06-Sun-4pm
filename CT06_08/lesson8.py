@@ -27,6 +27,7 @@ Trash = 1
 Common = 2
 Uncommon = 4
 Rare = 8
+Epic = 16
 
 
 Try = 0
