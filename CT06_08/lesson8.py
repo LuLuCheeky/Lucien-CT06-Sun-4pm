@@ -23,6 +23,7 @@
 import random
 import time
 
+
 Try = 0
 while not Try == 1:
     num = 2
