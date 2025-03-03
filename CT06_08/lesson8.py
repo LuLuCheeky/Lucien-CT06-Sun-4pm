@@ -25,6 +25,7 @@ import time
 
 
 while not Try == 1:
+    num = 2
     print("Rolling...")
     Try = random.randint(1, num)
     if not Try == 1:
