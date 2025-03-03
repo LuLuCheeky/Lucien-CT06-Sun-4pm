@@ -23,7 +23,7 @@
 import random
 import time
 
-while
+
 while not Try == 1:
     num = 2
     print("Rolling...")
@@ -34,7 +34,7 @@ while not Try == 1:
         print("Rolling...")
         time.sleep(1)
         
-print("You got rare!")
+    print("You got rare!")
     
 
 
