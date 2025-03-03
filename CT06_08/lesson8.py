@@ -23,7 +23,8 @@
 import random
 import time
 
-Wo = 2
+Worthless = 1
+
 Common = 4
 Uncommon = 8
 Rare = 8
