@@ -23,9 +23,10 @@
 import random
 import time
 
-Common = 1
-Uncommon = 2
-Rare = 4
+Trash = 1
+Common = 2
+Uncommon = 4
+Rare = 8
 
 
 Try = 0
