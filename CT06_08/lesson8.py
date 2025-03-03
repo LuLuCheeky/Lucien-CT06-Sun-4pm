@@ -32,6 +32,7 @@ Epic = 32
 Unique = 64
 
 
+
 Try = 0
 while not Try == 1:
     num = 2
