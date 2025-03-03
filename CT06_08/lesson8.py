@@ -20,6 +20,7 @@
 #     print(0 , 9999)
 
 # sols rng!!!
+import random
 
 print("Rolling")
 num = 2
