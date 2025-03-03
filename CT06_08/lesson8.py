@@ -34,9 +34,9 @@ Gemstone = "128"
 Transcendent = "256"
 Legendary = "512"
 Mythic = "1024"
-Exotic = 2048"
-Divine = 4096
-Blessed = 8192
+Exotic = "2048"
+Divine = "4096"
+Blessed = "8192"
 
 
 
@@ -47,7 +47,7 @@ while not Try == 1:
     print("Rolling...")
     Try = random.randint(1, num)
     if not Try == 1:
-        print("You got" , )
+        print("You got" ,  )
         time.sleep(1)
     num = num + 2
 
