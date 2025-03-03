@@ -35,7 +35,7 @@ Transcendent = 256
 Legendary = 512
 Mythic = 1024
 Exotic = 2048
-
+Divine = 4
 
 
 
