@@ -30,7 +30,7 @@ Uncommon = 8
 Rare = 16
 Epic = 32
 Unique = 64
-Transcedent
+Transcenedt
 
 
 Try = 0
