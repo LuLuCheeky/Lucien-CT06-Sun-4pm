@@ -28,7 +28,8 @@ Try = 0
 while not Try == 1:
     Try = random.randint
     if Try != 1:
-        print()
+        print("You got Common!")
+
     
 
 
