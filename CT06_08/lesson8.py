@@ -28,8 +28,9 @@ num = 2
 Try = 0
 while not Try == 1:
     Try = random.randint
-    if not Try 1:
+    if not Try == 1:
         print("You got Common!")
+        time.sleep(1)
         
 print("You got rare!")
     
