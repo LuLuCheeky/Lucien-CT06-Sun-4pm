@@ -28,6 +28,7 @@ Common = 2
 Uncommon = 4
 Rare = 8
 Epic = 16
+Unique = 32
 
 
 Try = 0
