@@ -22,7 +22,7 @@
 # sols rng!!!
 import random
 
-print("Rolling")
+print("Rolling...")
 num = 2
 Try = 0
 while not Try == 1:
