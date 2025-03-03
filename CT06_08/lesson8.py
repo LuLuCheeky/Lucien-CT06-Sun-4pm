@@ -29,7 +29,7 @@ while not Try == 1:
     Try = random.randint
     if Try != 1:
         print("You got Common!")
-
+print("You got rare!")
     
 
 
