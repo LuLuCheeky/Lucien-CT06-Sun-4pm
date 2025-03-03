@@ -25,7 +25,7 @@ import time
 
 Common = 1
 Rare = 2
-
+Super
 Try = 0
 while not Try == 1:
     num = 2
