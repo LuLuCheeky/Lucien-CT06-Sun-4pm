@@ -44,7 +44,8 @@ Blessed = "8192"
 Try = 0
 while not Try == 1:
     num = 2
-    
+    if num == Common:
+        ra
     print("Rolling...")
     Try = random.randint(1, num)
     if not Try == 1:
