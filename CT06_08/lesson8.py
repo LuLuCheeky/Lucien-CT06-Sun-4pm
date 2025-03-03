@@ -25,10 +25,10 @@ import time
 
 Worthless = "1"
 Trash = "2"
-Common = 4
-Uncommon = 8
-Rare = 16
-Epic = 32
+Common = "4"
+Uncommon = "8"
+Rare = "16"
+Epic = "32"
 Unique = 64
 Gemstone = 128
 Transcendent = 256
