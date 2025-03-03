@@ -40,12 +40,12 @@ Blessed = "8192"
 
 
 
-
+Rarity = ""
 Try = 0
 while not Try == 1:
     num = 2
     if num == Common:
-        ra
+        Ra
     print("Rolling...")
     Try = random.randint(1, num)
     if not Try == 1:
