@@ -24,7 +24,9 @@ import random
 import time
 
 Common = 1
-Rare = 2
+Uncommon = 2
+Rare = 4
+
 
 Try = 0
 while not Try == 1:
