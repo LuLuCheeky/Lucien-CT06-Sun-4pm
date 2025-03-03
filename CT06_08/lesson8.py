@@ -26,14 +26,14 @@ import time
 
 while not Try == 1:
     num = 2
+    Try
     print("Rolling...")
     Try = random.randint(1, num)
     if not Try == 1:
         print("You got Common!")
         time.sleep(1)
         print("Rolling...")
-        time.sleep(1)
-        
+        time.sleep(1)    
     print("You got rare!")
     
 
