@@ -24,8 +24,9 @@ import random
 import time
 
 Trash = 1
-Common = 2
-Uncommon = 4
+Worthless = 2
+Common = 4
+Uncommon = 8
 Rare = 8
 Epic = 16
 Unique = 32
