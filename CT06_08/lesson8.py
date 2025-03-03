@@ -30,8 +30,9 @@ Uncommon = 8
 Rare = 16
 Epic = 32
 Unique = 64
-Transcendent = 128
-Legendary = 256
+Gemstone = 128
+Transcendent = 256
+Legendary = 512
 Mythic = 512
 Exotic = 1024
 
