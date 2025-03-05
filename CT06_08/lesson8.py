@@ -64,7 +64,7 @@ Rarity = ""
 Try = 0
 RarityLoop = 2
 while not Try == 1:
-    while not Rarity == RarityLoop[1]:
+    while not Rarity == Rarity[1]:
         RarityLoop = RarityLoop + 1
         if RarityChance[RarityLoop] == RarityLoop:
             Rarity
