@@ -61,7 +61,7 @@ RarityChance = [
 
 num = 2
 Rarity = "Worthless"
-Try = 0
+Thingy = 1
 RarityLoop = 2
 while not Try == 1:
     while not Rarity == Rarity[1]:
