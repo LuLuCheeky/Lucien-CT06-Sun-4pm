@@ -70,7 +70,9 @@ while not Try == 1:
     if not Try == 1:
         print("You got" , Rarity) 
         time.sleep(1)
-        print
+        print("Rolling...")
+        time.sleep(1)
+    
 
 
     
