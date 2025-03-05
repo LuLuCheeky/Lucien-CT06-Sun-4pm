@@ -66,9 +66,9 @@ RarityLoop = 2
 print("Rolling...")
 Try = random.randint(1, num)
 if not Try == 1:
-    print("You got" ,)
+    print("You got" , Rarity) 
     time.sleep(1)
-    num = num + num
+num = num + num
 
     
 
