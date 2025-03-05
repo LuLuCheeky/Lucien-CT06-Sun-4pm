@@ -42,7 +42,10 @@ Raritys = [
 ]
 
 RarityChance = [
-    ""
+    2,
+    4,
+    8,
+    
 ]
 
 num = 2
