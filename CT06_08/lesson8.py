@@ -56,11 +56,10 @@ blessedR = 8192
 num = 2
 Rarity = ""
 Try = 0
+Check = 2
 while not Try == 1:
-    if num == common:
-        Rarity = common
-    else:
-        
+    while not num == common:
+        Check = 
     print("Rolling...")
     Try = random.randint(1, num)
     if not Try == 1:
