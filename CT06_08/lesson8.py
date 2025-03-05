@@ -56,13 +56,14 @@ RarityChance = [
     4096,
     8192,
     16384,
-    3276
+    32768
 ]
 
 num = 2
 Rarity = 2
 Try = 0
 RarityLoop = 2
+Rarity
 while not Try == 1:
     while not Rarity == num:
         RarityLoop = RarityLoop + RarityLoop
