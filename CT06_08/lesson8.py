@@ -39,28 +39,34 @@ unique = "Uncommon"
 uniqueR = 64
 gemstone = "Gemstone"
 gemstoneR = 128
-Transcendent
-Transcendent = 256
-Legendary = 512
-Mythic = 1024
-Exotic = 2048
-Divine = 4096
-Blessed = 8192
+transcendent = "Transcendent"
+transcendentR = 256
+legendary = "Legendary"
+legendaryR = 512
+mythic = "Mythic"
+mythicR = 1024
+exotic = "Exotic"
+exoticR = 2048
+divine = "Divine"
+divineR = 4096
+blessed = "Blessed"
+blessedR = 8192
 
 
-
+num = 2
 Rarity = ""
 Try = 0
 while not Try == 1:
-    num = 2
-    if num == Common:
-        Rarity = 
+    if num == common:
+        Rarity = common
+    else:
+        
     print("Rolling...")
     Try = random.randint(1, num)
     if not Try == 1:
         print("You got" ,)
         time.sleep(1)
-
+    num = num + num
 
     
 
