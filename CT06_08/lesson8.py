@@ -63,7 +63,6 @@ num = 2
 Rarity = 2
 Try = 0
 RarityLoop = 2
-Rarity
 while not Try == 1:
     while not Rarity == num:
         RarityLoop = RarityLoop + RarityLoop
