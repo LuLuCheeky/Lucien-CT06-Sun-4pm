@@ -63,9 +63,12 @@ num = 2
 Rarity = "Worthless"
 ThingyWhatsItCalled = 1
 RarityLoop = 2
+Try = 0
 print("Rolling...")
-Try = random.randint(1, num)
-if not Try == 1:
+while not Try == 1:
+
+    Try = random.randint(1, num)
+    if not Try == 1:
     print("You got" , Rarity) 
     time.sleep(1)
 num = num + num
