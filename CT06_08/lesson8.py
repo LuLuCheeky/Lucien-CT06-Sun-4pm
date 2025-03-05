@@ -60,20 +60,20 @@ RarityChance = [
 ]
 
 num = 2
-Rarity = 2
+Rarity = ""
 Try = 0
 RarityLoop = 2
 while not Try == 1:
-    while not Rarity == num:
-        RarityLoop = RarityLoop + RarityLoop
-        
+    while not Rarity == RarityLoop[1]:
+        RarityLoop = RarityLoop + 1
+        if RarityChance[RarityLoop] == RarityLoop:
+            Rarity
     print("Rolling...")
     Try = random.randint(1, num)
     if not Try == 1:
         print("You got" ,)
         time.sleep(1)
     num = num + num
-    Check = 2
 
     
 
