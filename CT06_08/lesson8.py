@@ -41,7 +41,9 @@ Raritys = [
     "Arcane"
 ]
 
-R
+RarityChance = [
+    ""
+]
 
 num = 2
 Rarity = 2
