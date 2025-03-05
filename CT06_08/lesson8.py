@@ -39,7 +39,7 @@ unique = "Uncommon"
 uniqueR = 64
 gemstone = "Gemstone"
 gemstoneR = 128
-
+Transcendent
 Transcendent = 256
 Legendary = 512
 Mythic = 1024
