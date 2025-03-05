@@ -23,14 +23,23 @@
 import random
 import time
 
-Worthless = 1
-Trash = 2
-Common = 4
-Uncommon = 8
-Rare = 16
-Epic = 32
-Unique = 64
-Gemstone = 128
+worthless = "Worthless"
+worthlessR = 1
+trash = "Trash"
+trashR = 2
+common = "Common"
+commonR = 4
+uncommon = "Uncommon"
+uncommonR = 8
+rare = "Rare"
+rareR = 16
+epic = "Epic"
+epicR = 32
+unique = "Uncommon"
+uniqueR = 64
+gemstone = "Gemstone"
+gemstoneR = 128
+
 Transcendent = 256
 Legendary = 512
 Mythic = 1024
@@ -40,16 +49,17 @@ Blessed = 8192
 
 
 
-
+Rarity = ""
 Try = 0
 while not Try == 1:
     num = 2
+    if num == Common:
+        Rarity = 
     print("Rolling...")
     Try = random.randint(1, num)
     if not Try == 1:
         print("You got" ,)
         time.sleep(1)
-    num = num + 2
 
 
     
