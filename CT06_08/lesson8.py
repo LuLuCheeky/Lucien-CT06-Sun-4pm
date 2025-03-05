@@ -23,49 +23,52 @@
 import random
 import time
 
-worthless = "Worthless"
-worthlessR = 1
-trash = "Trash"
-trashR = 2
-common = "Common"
-commonR = 4
-uncommon = "Uncommon"
-uncommonR = 8
-rare = "Rare"
-rareR = 16
-epic = "Epic"
-epicR = 32
-unique = "Uncommon"
-uniqueR = 64
-gemstone = "Gemstone"
-gemstoneR = 128
-transcendent = "Transcendent"
-transcendentR = 256
-legendary = "Legendary"
-legendaryR = 512
-mythic = "Mythic"
-mythicR = 1024
-exotic = "Exotic"
-exoticR = 2048
-divine = "Divine"
-divineR = 4096
-blessed = "Blessed"
-blessedR = 8192
+worthlessN = "Worthless"
+worthless = 2
+trashN = "Trash"
+trash = 4
+commonN = "Common"
+common = 8
+uncommonN = "Uncommon"
+uncommon = 16
+rareN = "Rare"
+rare = 32
+epicN = "Epic"
+epic = 64
+uniqueN = "Uncommon"
+unique = 128
+gemstoneN = "Gemstone"
+gemstone = 256
+transcendentN = "Transcendent"
+transcendent = 512
+legendaryN = "Legendary"
+legendary = 1024
+mythicN = "Mythic"
+mythic = 2048
+exoticN = "Exotic"
+exotic = 4096
+divineN = "Divine"
+divine = 8192
+blessedN = "Blessed"
+blessed = 16384
+arcaneN = "Arcane"
+arcane = 32768
 
 
 num = 2
-Rarity = ""
+Rarity = 2
 Try = 0
 Check = 2
 while not Try == 1:
-    while not num == common:
-        Check = 
+    while not Rarity == num:
+        l
     print("Rolling...")
     Try = random.randint(1, num)
     if not Try == 1:
         print("You got" ,)
         time.sleep(1)
     num = num + num
+    Check = 2
 
     
 
