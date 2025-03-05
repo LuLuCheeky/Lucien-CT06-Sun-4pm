@@ -41,6 +41,8 @@ Raritys = [
     "Arcane"
 ]
 
+R
+
 num = 2
 Rarity = 2
 Try = 0
@@ -48,7 +50,7 @@ RarityLoop = 2
 while not Try == 1:
     while not Rarity == num:
         RarityLoop = RarityLoop + RarityLoop
-        
+
     print("Rolling...")
     Try = random.randint(1, num)
     if not Try == 1:
