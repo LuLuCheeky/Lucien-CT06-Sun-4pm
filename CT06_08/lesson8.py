@@ -68,7 +68,7 @@ time.sleep(1)
 while not Try == 1:
     Try = random.randint(1, num)
     if not Try == 1:
-        print("You got" , Ra) 
+        print("You got" , Raritys[ThingyWhatsItCalled]) 
         time.sleep(1)
         print("Rolling...")
         time.sleep(1)
