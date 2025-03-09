@@ -1,1 +1,1 @@
-welp im gay :PPPP
+gay = 
