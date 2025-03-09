@@ -61,7 +61,7 @@ RarityChance = [
 
 num = 2
 Rarity = "Worthless"
-ThingyWhatsItCalled = 1
+ThingyWhatsItCalled = 2
 RarityLoop = 2
 Try = 0
 print("Rolling...")
@@ -75,7 +75,7 @@ while not Try == 1:
         time.sleep(1)
     else:
         ThingyWhatsItCalled = ThingyWhatsItCalled * 2
-        
+
         print("You got" , Raritys[ThingyWhatsItCalled])
         break
 
