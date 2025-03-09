@@ -8,4 +8,5 @@ Print = ""
 for i in range(Start, End, Increment):
     Print = Print + str(i) + ","
     print(Print)
+
 print(Print)
