@@ -65,6 +65,7 @@ ThingyWhatsItCalled = 1
 RarityLoop = 2
 Try = 0
 print("Rolling...")
+time.sleep(1)
 while not Try == 1:
     Try = random.randint(1, num)
     if not Try == 1:
