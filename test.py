@@ -7,5 +7,4 @@ Increment = int(input("What do you want the increment to be? "))
 Print = ""
 for i in range(Start, End, Increment):
     Print = Print + str(i) + ", "
-    print(Print)
 print(Print)
