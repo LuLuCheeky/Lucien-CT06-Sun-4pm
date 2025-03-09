@@ -1,2 +1,0 @@
-gay = "YESSIR"
-print(gay)
