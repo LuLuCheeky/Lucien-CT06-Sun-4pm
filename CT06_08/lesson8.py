@@ -74,7 +74,6 @@ while not Try == 1:
         time.sleep(1)
     else:
         ThingyWhatsItCalled = ThingyWhatsItCalled * 2
-        print(ThingyWhatsItCalled)
         print("You got" , Raritys[ThingyWhatsItCalled])
         break
 
