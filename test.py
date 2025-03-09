@@ -4,5 +4,6 @@
 Start = int(input("What number do you want to start at? "))
 End = int(input("WHat number do you want to end at? "))
 Increment = int(input("What do you want the increment to be? "))
+Print = ""
 for i in range(Start, End, Increment):
-    print(i)
+    Print = Print
