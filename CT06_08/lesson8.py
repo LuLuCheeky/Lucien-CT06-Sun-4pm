@@ -60,7 +60,6 @@ RarityChance = [
 ]
 
 num = 2
-Rarity = "Worthless"
 ThingyWhatsItCalled = 2
 RarityLoop = 2
 Try = 0
