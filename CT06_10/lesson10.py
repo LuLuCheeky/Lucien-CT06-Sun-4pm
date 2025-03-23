@@ -1,5 +1,6 @@
 num = int(input("What number? "))
-if num :
+num = num > 0
+if num == True:
     print("The number you have inputed is positive.")
 else:
     print("The number you have inputed is negative.")
