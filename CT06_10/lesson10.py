@@ -37,3 +37,6 @@ elif age > 20:
     print("You are teen. ")
 else:
     print("Adult but did you pass ur exam lol")
+
+import random
+
