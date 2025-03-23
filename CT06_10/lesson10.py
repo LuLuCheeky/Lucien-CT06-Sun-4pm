@@ -50,4 +50,5 @@
 grade = input("What is ur grade? ")
 if grade == 100:
     print("Ranking = S tier")
-elif grade > 89
+elif grade > 89:
+    print("Your ranking is ")
