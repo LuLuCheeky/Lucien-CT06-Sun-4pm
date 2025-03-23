@@ -38,7 +38,7 @@ elif age > 20:
 else:
     print("Adult but did you pass ur exam lol")
 
-temp = 
+temp = input("What is the temperature? ")
 
 if temp < 20:
     print("Read indoors.")
