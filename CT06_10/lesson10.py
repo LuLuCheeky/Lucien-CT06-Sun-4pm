@@ -40,4 +40,4 @@ else:
 
 import random
 
-temp = random.randint(1, 4)
+temp = random.randint(1, 60)
