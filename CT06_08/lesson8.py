@@ -38,7 +38,7 @@ Raritys = [
     "Exotic", 
     "Divine",
     "Heavenly"
-    "Arcane"
+    "Archangel"
 ]
 
 RarityChance = [
