@@ -1,2 +1,2 @@
 #Prints
-#Print is
+#Print is like this:
