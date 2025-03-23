@@ -10,7 +10,7 @@ import random
 num = str(random.randint(1, 10))
 
 
-    if not guess == num:
+if not guess == num:
     print("Wrong! 😡")
 else:
     print("Congrats! 😎")
