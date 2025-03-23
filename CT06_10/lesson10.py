@@ -23,5 +23,7 @@
 
 import random
 
-password = input("What do you want the password to be word? (Player 1) ")
+password = input("What do you want the password to be? (Player 1) ")
 guess = input("What do you think the password is? (Player 2) ")
+if guess == password:
+    
