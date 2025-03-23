@@ -28,4 +28,4 @@ guess = input("What do you think the password is? (Player 2) ")
 if guess == password:
     print("Login successful.")
 else:
-    print("Loggin un")
+    print("Loggin unsuccessful.")
