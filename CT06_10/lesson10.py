@@ -47,3 +47,6 @@
 # else:
 #     print("Go touch water.")
 
+import random
+
+num = random
