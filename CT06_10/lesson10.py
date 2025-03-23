@@ -55,6 +55,6 @@ elif grade >= 89:
 elif grade >= 79:
     print("Your ranking is B tier")
 elif grade >= 69:
-    print("Your tier is D tier")
+    print("Your ranking is D tier")
 elif grade < 60:
-    print("Your ranking is tier is F")
+    print("Your ranking is F tier")
