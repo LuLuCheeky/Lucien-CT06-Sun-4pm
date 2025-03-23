@@ -1,3 +1,3 @@
 #Prints
 #Print is like this:
-print("W")
+print("What you want to say?")
