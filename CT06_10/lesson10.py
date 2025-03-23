@@ -36,3 +36,5 @@ if age < 13:
 else:
     if age > 20:
         print("You are teen. ")
+    else:
+        print("Adult")
