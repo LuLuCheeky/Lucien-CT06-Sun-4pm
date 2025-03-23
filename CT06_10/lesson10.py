@@ -15,3 +15,6 @@
 # else:
 #     print("Congrats! 😎")
 
+import random 
+
+num = str
