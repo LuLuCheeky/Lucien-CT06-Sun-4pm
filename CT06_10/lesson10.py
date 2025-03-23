@@ -17,4 +17,4 @@
 
 import random 
 
-num = str(random.randint(1, 10))
+num = str(random.randint(1, 999999))
