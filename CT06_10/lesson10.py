@@ -49,7 +49,7 @@
 
 grade = int(input("What is ur grade? "))
 if grade == 100:
-    print("Ranking is S tier")
+    print("Your ranking is S tier")
 elif grade >= 89:
     print("Your ranking is A tier")
 elif grade >= 79:
