@@ -30,7 +30,7 @@
 # else:
 #     print("Loggin unsuccessful.")
 
-age = input("Whats ur age? ")
+age = int(input("Whats ur age? "))
 if age < 13:
     print("You are a child.")
 elif age > 20:
