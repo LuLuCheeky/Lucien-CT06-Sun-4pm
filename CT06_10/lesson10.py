@@ -46,3 +46,5 @@ if temp < 20:
     print("Read indoors.")
 elif temp <= 30:
     print("Go touch grass.")
+else:
+    print("Go touch water.")
