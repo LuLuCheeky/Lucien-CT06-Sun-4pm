@@ -38,9 +38,7 @@ elif age > 20:
 else:
     print("Adult but did you pass ur exam lol")
 
-import random
-
-temp = random.randint(1, 60)
+temp = 
 
 if temp < 20:
     print("Read indoors.")
