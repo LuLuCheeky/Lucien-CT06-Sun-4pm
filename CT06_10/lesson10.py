@@ -8,8 +8,8 @@ else:
 import random
 
 hardness = int(input("What do you want the max number be? "))
-num = str(random.randint(1, hardness))
-guess = 0
+num = str(random.randint(1, 10))
+
 while guess != num:
     guess = input("What do you think the random number (1 - " + str(hardness) + ") is? ")
     if not guess == num:
