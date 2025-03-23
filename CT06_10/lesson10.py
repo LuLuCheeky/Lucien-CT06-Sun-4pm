@@ -5,6 +5,8 @@ if num:
 else:
     print("The number you have inputed is negative.")
 
+import random
+
 hardness = int(input("What do you want the max number be? "))
 num = str(random.randint(1, hardness))
 guess = 0
