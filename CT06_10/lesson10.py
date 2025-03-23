@@ -15,4 +15,4 @@
 # else:
 #     print("Congrats! 😎")
 
-input("")
+input("What number do you want to check?")
