@@ -49,4 +49,4 @@
 
 import random
 
-num = random
+num = random.randint(1, 10)
