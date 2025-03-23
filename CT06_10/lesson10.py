@@ -24,3 +24,4 @@
 import random
 
 password = input("What do you want the password to be word? ")
+guess = input("")
