@@ -38,13 +38,4 @@
 # else:
 #     print("Adult but did you pass ur exam lol")
 
-temp = input("What is the temperature? ")
 
-if temp < 20:
-    print("Read indoors.")
-elif temp <= 30:
-    print("Go touch grass.")
-else:
-    print("Go touch water.")
-
-    
