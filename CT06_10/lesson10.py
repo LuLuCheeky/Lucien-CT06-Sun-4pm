@@ -19,4 +19,4 @@ num = input("What number do you want to check?")
 if num % 2 == 0:
     print("The number you have inputed is even.")
 else:
-    print("")
+    print("The number you have inputed is odd.")
