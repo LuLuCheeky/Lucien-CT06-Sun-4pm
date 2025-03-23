@@ -30,13 +30,13 @@
 # else:
 #     print("Loggin unsuccessful.")
 
-age = int(input("Whats ur age? "))
-if age < 13:
-    print("You are a child.")
-elif age > 20:
-    print("You are teen. ")
-else:
-    print("Adult but did you pass ur exam lol")
+# age = int(input("Whats ur age? "))
+# if age < 13:
+#     print("You are a child.")
+# elif age > 20:
+#     print("You are teen. ")
+# else:
+#     print("Adult but did you pass ur exam lol")
 
 temp = input("What is the temperature? ")
 
@@ -46,3 +46,5 @@ elif temp <= 30:
     print("Go touch grass.")
 else:
     print("Go touch water.")
+
+    
