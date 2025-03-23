@@ -23,4 +23,4 @@
 
 import random
 
-password = random.randint("")
+password = random.randint(1, 999999)
