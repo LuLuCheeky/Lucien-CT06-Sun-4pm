@@ -47,7 +47,6 @@
 # else:
 #     print("Go touch water.")
 
-import random
-
-num = random.randint(1, 10)
-guess = input("")
+grade = input("What is ur grade? ")
+if grade == 100:
+    
