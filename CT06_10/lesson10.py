@@ -43,4 +43,6 @@ import random
 temp = random.randint(1, 60)
 
 if temp < 20:
-    print("")
+    print("Read indoors.")
+elif temp <= 30:
+    print("Go touch grass.")
