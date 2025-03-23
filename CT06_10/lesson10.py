@@ -30,3 +30,6 @@
 # else:
 #     print("Loggin unsuccessful.")
 
+age = input("Whats ur age? ")
+if age < 13:
+    
