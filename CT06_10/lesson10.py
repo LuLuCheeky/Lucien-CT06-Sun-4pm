@@ -8,7 +8,7 @@ else:
 import random
 
 num = str(random.randint(1, 10))
-
+guess = input("G")
 
 if not guess == num:
     print("Wrong! 😡")
