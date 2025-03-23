@@ -9,7 +9,6 @@ import random
 
 num = str(random.randint(1, 10))
 guess = input("Guess a number from 1 to 10. ")
-print(num)
 if not guess == num:
     print("Wrong! 😡")
 else:
