@@ -15,4 +15,6 @@
 # else:
 #     print("Congrats! 😎")
 
-input("What number do you want to check?")
+num = input("What number do you want to check?")
+if num % 2 == 0:
+    print("")
