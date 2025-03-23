@@ -47,7 +47,7 @@
 # else:
 #     print("Go touch water.")
 
-grade = input("What is ur grade? ")
+grade = int(input("What is ur grade? "))
 if grade == 100:
     print("Ranking is S tier")
 elif grade > 89:
