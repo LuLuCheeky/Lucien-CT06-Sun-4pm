@@ -15,6 +15,4 @@
 # else:
 #     print("Congrats! 😎")
 
-import random 
-
-num = str(random.randint(1, 999999))
+input("")
