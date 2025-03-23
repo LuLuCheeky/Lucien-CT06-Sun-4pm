@@ -23,4 +23,4 @@
 
 import random
 
-password = random.randint(1, 999999)
+password = input("What do you want the password to be word? ")
