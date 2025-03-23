@@ -36,4 +36,4 @@ if age < 13:
 elif age > 20:
     print("You are teen. ")
 else:
-    print("Adult but did you ")
+    print("Adult but did you pass ur exam lol")
