@@ -24,3 +24,5 @@
 #     print("Nuh uh")
 
 age = int(input("What is ur age? "))
+if age < 12 or age > 65:
+    
