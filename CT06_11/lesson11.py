@@ -37,4 +37,4 @@
 
 
 Burger = input("Would you like a burger (Answer in True or False) ")
-Drink = input("W")
+Drink = input("Would you like a drink? ")
