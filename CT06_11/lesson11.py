@@ -23,3 +23,4 @@
 # else:
 #     print("Nuh uh")
 
+age = int(input(""))
