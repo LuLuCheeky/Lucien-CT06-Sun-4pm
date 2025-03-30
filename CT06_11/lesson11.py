@@ -49,6 +49,7 @@ if username == "John123" and password == "pw123":
     print("Access granted")
 elif not username == "John123":
     print("Either username or password is incorrect")
-elif not password == "pw"
+elif not password == "pw123":
+    print("Either username")
 else:
     print("Access denied")
