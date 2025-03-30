@@ -36,4 +36,4 @@
 #     print("You win.")
 
 
-Burger 
+Burger = input("")
