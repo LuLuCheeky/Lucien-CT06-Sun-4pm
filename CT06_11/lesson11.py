@@ -1,5 +1,5 @@
 thing = input("What is the item you are buying? ")
-px = int(input("How much is the" , thing + "? "))
+px = int(input("How much is the " + thing + "? "))
 if px <= 5:
     print("Sure buy it why not???????????? ITS SO CHEAPPPP")
 elif px <= 50:
