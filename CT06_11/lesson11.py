@@ -36,8 +36,3 @@
 #     print("You win.")
 
 
-day = input("WhAt DaY iS iT? ")
-if not day == "saturday" or day == "Saturday" or day == "sunday" or day == "Sunday":
-    print("ItS NoT tHe WeEkEnD yEt NoOb")
-else:
-    print("ItS nOt ThE wEeKeNd NoOb ItS a DaY")
