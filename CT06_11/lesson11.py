@@ -36,4 +36,5 @@
 #     print("You win.")
 
 
-Burger = input("Would you like a burger (Answer in true or False)")
+Burger = input("Would you like a burger (Answer in True or False) ")
+Drink = input("W")
