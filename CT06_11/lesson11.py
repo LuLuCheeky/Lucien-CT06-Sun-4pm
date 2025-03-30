@@ -11,4 +11,6 @@
 
 num = int(input("What number do you want to check for? "))
 if num % 3 == 0 and num % 7 == 0:
-    
+    print("The number is divisable by 3 and 7! :)")
+else:
+    print
