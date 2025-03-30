@@ -44,4 +44,6 @@
 #         print("Won't you get thirsty?")
 
 password = input("Enter the password. ")
-username = input("E")
+username = input("Enter your username. ")
+if username == "John123" and password == "pw123":
+    print("A")
