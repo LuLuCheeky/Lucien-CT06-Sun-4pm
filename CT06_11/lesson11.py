@@ -4,3 +4,4 @@ if px <= 5:
     print("Sure buy it why not???????????? ITS SO CHEAPPPP")
 elif px <= 50:
     print("Are you really sure you want the" , thing + ".")
+elif px <= 
