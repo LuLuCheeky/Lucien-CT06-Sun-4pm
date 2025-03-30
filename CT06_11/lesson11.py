@@ -50,6 +50,6 @@ if username == "John123" and password == "pw123":
 elif not username == "John123":
     print("Either username or password is incorrect")
 elif not password == "pw123":
-    print("Either username or password is wrong")
+    print("Either username or password is incorrect")
 else:
     print("Access denied")
