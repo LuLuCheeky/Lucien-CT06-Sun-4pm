@@ -40,5 +40,5 @@ Burger = input("Would you like a burger (Answer in True or False) ")
 Drink = input("Would you like a drink? (Answer in True or False) ")
 Fries = input("Would you like fries (Answer in True or False) ")
 if Burger == "True" and Fries == "True":
-    if Drink == "False":
+    if not Drink == "False":
         print("Won't you get thirsty?")
