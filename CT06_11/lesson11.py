@@ -47,7 +47,8 @@ password = input("Enter the password. ")
 username = input("Enter your username. ")
 if username == "John123" and password == "pw123":
     print("Access granted")
-elif not username == "John123" or not password == "pw123":
+elif not username == "John123":
     print("Either username or password is incorrect")
+elif not password == "pw"
 else:
     print("Access denied")
