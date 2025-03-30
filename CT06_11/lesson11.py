@@ -15,4 +15,5 @@
 # else:
 #     print("The number is not divisable by 3 and 7 >:((((")
 
-rider1 =
+rider1 = 25
+rider2 = 6
