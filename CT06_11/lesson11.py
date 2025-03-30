@@ -42,3 +42,5 @@
 # if Burger == "True" and Fries == "True":
 #     if not Drink == "True":
 #         print("Won't you get thirsty?")
+
+password = input("Enter the password. ")
