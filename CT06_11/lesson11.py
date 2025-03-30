@@ -9,4 +9,4 @@
 # elif px > 500:
 #     print("Don't buy it unless you have money from the shark loaners! (Why do you even loan money from the sharks in the first place you cooked lol.)")
 
-num1 = int(input(""))
+num = int(input("What number "))
