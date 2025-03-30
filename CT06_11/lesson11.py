@@ -36,4 +36,4 @@
 #     print("You win idiot.")
 
 
-day = input("W")
+day = input("WhAt DaY iS ")
