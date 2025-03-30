@@ -1,1 +1,1 @@
-px = int(input())
+px = int(input("Whatis the item you are buying? "))
