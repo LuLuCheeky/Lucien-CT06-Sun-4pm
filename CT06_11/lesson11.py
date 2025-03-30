@@ -33,4 +33,4 @@ colour = input("What colour lil bro? ")
 if not colour == "Green":
     print("You trash.")
 else:
-    print("")
+    print("You win idiot.")
