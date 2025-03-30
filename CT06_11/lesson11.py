@@ -5,4 +5,6 @@ if px <= 5:
 elif px <= 50:
     print("Are you really sure you want the" , thing + ".")
 elif px <= 500:
-    print("Where are you even getting the money from?? Your slary is only 1")
+    print("Where are you even getting the money from?? Your slary is only 125 or something a year!")
+elif px > 500:
+    print("B")
