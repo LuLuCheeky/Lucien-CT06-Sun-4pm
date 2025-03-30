@@ -1,0 +1,1 @@
+px = int(input())
