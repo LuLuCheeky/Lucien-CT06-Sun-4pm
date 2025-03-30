@@ -15,10 +15,11 @@
 # else:
 #     print("The number is not divisable by 3 and 7 >:((((")
 
-rider1 = 25
-rider2 = 6
+# rider1 = 25
+# rider2 = 6
 
-if rider1 <= 18 or rider2 <= 18:
-    print("Ok")
-else:
-    print("Nuh uh")
+# if rider1 <= 18 or rider2 <= 18:
+#     print("Ok")
+# else:
+#     print("Nuh uh")
+
