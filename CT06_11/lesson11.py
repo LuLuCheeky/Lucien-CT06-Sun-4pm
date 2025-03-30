@@ -9,4 +9,6 @@
 # elif px > 500:
 #     print("Don't buy it unless you have money from the shark loaners! (Why do you even loan money from the sharks in the first place you cooked lol.)")
 
-num = int(input("What number "))
+num = int(input("What number do you want to check for? "))
+if num % 3 == 0 and num % 7 == 0:
+    
