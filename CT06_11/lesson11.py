@@ -38,4 +38,4 @@
 
 day = input("WhAt DaY iS iT? ")
 if not day == "saturday" or day == "Saturday" or day == "sunday" or day == "Sunday":
-    print("ItS NoT tHe WeEk")
+    print("ItS NoT tHe WeEkEnD yEt NoO")
