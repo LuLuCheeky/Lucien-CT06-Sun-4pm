@@ -44,3 +44,4 @@
 #         print("Won't you get thirsty?")
 
 password = input("Enter the password. ")
+username = input("E")
