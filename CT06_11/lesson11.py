@@ -33,9 +33,9 @@
 # if not colour == "Green":
 #     print("You trash.")
 # else:
-#     print("You win idiot.")
+#     print("You win.")
 
 
 day = input("WhAt DaY iS iT? ")
 if not day == "saturday" or day == "Saturday" or day == "sunday" or day == "Sunday":
-    print("ItS NoT tHe WeEkEnD yEt NoO")
+    print("ItS NoT tHe WeEkEnD yEt NoOb")
