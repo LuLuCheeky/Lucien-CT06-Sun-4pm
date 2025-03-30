@@ -7,4 +7,4 @@ elif px <= 50:
 elif px <= 500:
     print("Where are you even getting the money from?? Your slary is only 125 or something a year!")
 elif px > 500:
-    print("Don't Buy it unless you have money from the shark loaners! (Why do you even )")
+    print("Don't Buy it unless you have money from the shark loaners! (Why do you even loan money from the sharks in the first place you cooked lol)")
