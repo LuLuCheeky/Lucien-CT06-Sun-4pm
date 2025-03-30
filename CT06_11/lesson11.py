@@ -29,4 +29,6 @@
 # else:
 #     print("Ticket price: $20")
 
-colour = input("What colour lil bro")
+colour = input("What colour lil bro? ")
+if not colour == "Green":
+    
