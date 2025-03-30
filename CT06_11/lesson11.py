@@ -48,4 +48,6 @@ username = input("Enter your username. ")
 if username == "John123" and password == "pw123":
     print("Access granted")
 elif not username == "John123" or not password == "pw123":
-    print("Either username or password")
+    print("Either username or password is incorrect")
+else:
+    print("")
