@@ -95,4 +95,4 @@ while True:
         break
     order = order + user + ", "
     print(order)
-print()
+print(order)
