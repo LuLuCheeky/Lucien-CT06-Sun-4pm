@@ -94,4 +94,5 @@ while True:
     if user == "end":
         break
     order = order + user + ", "
-    print()
+    print(order)
+print()
