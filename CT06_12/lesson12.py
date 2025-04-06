@@ -118,6 +118,8 @@
 # Observe that "Happy New Year!" is no longer printed
 num = 10
 while True:
-    if num 
+    if num == 0:
+        print("Happy new year!")
+        break
     print(num)
     num = num - 1
