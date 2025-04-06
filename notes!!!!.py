@@ -1,6 +1,3 @@
-------------------------------------------------------------------------
-
-
 #Prints
 #Print is like this:
 print("What you want to say?")
@@ -9,3 +6,4 @@ print(699)
 #or variables
 num = "Hi!"
 print(num)
+
