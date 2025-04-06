@@ -7,3 +7,5 @@ print(699)
 num = "Hi!"
 print(num)
 
+#Variables
+#Variables can be 
