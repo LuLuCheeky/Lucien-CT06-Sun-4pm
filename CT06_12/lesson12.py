@@ -88,11 +88,32 @@
 # **Bonus**
 # 1. Modify your code to remove the comma (",") that appears
 #    either at the start or end of your sentence
-order = ""
-while True:
-    user = input("What would you like to order? ")
-    if user == "end":
-        break
-    order = order + user + ", "
-    print(order)
-print(order)
+# order = ""
+# while True:
+#     user = input("What would you like to order? ")
+#     if user == "end":
+#         break
+#     order = order + user + ", "
+#     print(order)
+# print(order)
+
+# Task 4: while... else
+# The else condition will run when the loop exits normally.
+# i.e. when the while condition is no longer true.
+
+# Using 'else', create a program that will count from 10 to 1,
+# before printing "Happy New Year!"
+
+# **Task 4a**:
+# Using a 'while' loop:
+# 1. Print the numbers from 10 to 1
+# 2. Once count reaches 1, use 'else' to print
+#    "Happy New Year!"
+
+# **Task 4b**:
+# Now, modify your 'while' loop from Task 4a such that:
+# 1. If the number is 5, 'break' out of the loop
+# 2. Ensure your code has an 'else'
+
+# Observe that "Happy New Year!" is no longer printed
+
