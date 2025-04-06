@@ -71,4 +71,3 @@ while True:
     else:
         print("There are" , str(visitors) , "visitors.")
         visitors = visitors + 1
-        
