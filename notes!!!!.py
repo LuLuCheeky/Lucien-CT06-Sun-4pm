@@ -3,3 +3,4 @@
 print("What you want to say?")
 #Can also print numbers
 print(699)
+#or variables
