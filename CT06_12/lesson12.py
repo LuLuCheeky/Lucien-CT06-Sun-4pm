@@ -69,6 +69,6 @@ while True:
         print("There are 30 visitors.")
         break
     else:
-        print("There are" , str(visitors) + ".")
+        print("There are" , str(visitors) , "visitors.")
         visitors = visitors + 1
         
