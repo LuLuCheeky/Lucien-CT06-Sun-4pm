@@ -9,4 +9,4 @@ print(num)
 
 #Variables
 #Variables can be a string, int or float
-num = ""
+num = "Im blue"
