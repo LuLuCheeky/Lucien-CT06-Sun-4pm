@@ -90,4 +90,4 @@
 #    either at the start or end of your sentence
 order = ""
 said = input("Give me the order pls")
-order = order 
+order = order, said
