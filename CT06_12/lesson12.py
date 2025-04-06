@@ -91,3 +91,4 @@
 order = ""
 said = input("Give me the order pls")
 order = order, said
+print(order)
