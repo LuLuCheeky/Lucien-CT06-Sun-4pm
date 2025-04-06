@@ -121,5 +121,6 @@ while True:
     if num == 0:
         print("Happy new year!")
         break
-    print(num)
-    num = num - 1
+    else:
+        print(num)
+        num = num - 1
