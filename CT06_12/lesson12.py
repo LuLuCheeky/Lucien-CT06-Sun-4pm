@@ -89,4 +89,4 @@
 # 1. Modify your code to remove the comma (",") that appears
 #    either at the start or end of your sentence
 order = ""
-print("Give me the order pls")
+input("Give me the order pls")
