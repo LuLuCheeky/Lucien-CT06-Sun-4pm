@@ -66,6 +66,7 @@
 visitors = 0
 while True:
     if visitors == 30:
+        print("")
         break
     else:
         visitors = visitors + 1
