@@ -93,4 +93,4 @@ while True:
     user = input("What would you like to order? ")
     if user == "end":
         break
-    
+    order = order + user
