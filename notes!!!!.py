@@ -8,4 +8,5 @@ num = "Hi!"
 print(num)
 
 #Variables
-#Variables can be 
+#Variables can be a string, int or float
+num = ""
