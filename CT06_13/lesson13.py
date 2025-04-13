@@ -8,4 +8,4 @@ groceries = [
     "Grapes",
     "Herbs"
 ]
-groceries[9]
+groceries[7] = "Herb"
