@@ -148,6 +148,6 @@ var1 = random.randint(1, 10)
 var2 = random.randint(1, 10)
 while True:
     answer = var1 + var1
-    guess = int(input("What is" , var1 , "+" , var2 + "?"))
+    guess = int(input("What is" , str(var1) , "+" , str(var2) + "?"))
     if guess == answer:
         break
