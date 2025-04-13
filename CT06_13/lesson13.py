@@ -9,4 +9,5 @@ for grocery in groceries:
     if grocery == "Apples":
         print("I need 5 of these.")
     if grocery == "Carrots":
-        print()
+        print("I need 3 of these")
+        
