@@ -9,3 +9,4 @@ groceries = [
     "Herbs"
 ]
 groceries[7] = "Herb"
+print(groceries)
