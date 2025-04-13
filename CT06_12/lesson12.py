@@ -144,9 +144,9 @@
     
 
 import random
+var1 = random.randint(1, 10)
+var2 = random.randint(1, 10)
 while True:
-    var1 = random.randint(1, 10)
-    var2 = random.randint(1, 10)
     answer = var1 + var1
     guess = int(input("What is" , var1 , "+" , var2 + "?"))
     if guess == answer:
