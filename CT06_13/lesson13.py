@@ -6,5 +6,7 @@ del(groceries[2])
 print(groceries)
 for grocery in groceries:
     print(grocery)
-    if grocery == "Apples"
-    
+    if grocery == "Apples":
+        print("I need 5 of these.")
+    if grocery == "Carrots":
+        print()
