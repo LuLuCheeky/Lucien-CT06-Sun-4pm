@@ -5,4 +5,4 @@ groceries.insert(1,"Bananas")
 del(groceries[2])
 print(groceries)
 for i in groceries:
-    print()
+    print(groceries[i - 1])
