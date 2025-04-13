@@ -4,5 +4,5 @@ groceries.append("Ice")
 groceries.insert(1,"Bananas")
 del(groceries[2])
 print(groceries)
-for i in groceries:
-    print(groceries[i - 1])
+for grocery in groceries:
+    print(groceries[grocery - 1])
