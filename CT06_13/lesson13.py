@@ -6,7 +6,7 @@ groceries = [
     "Eggs",
     "Flour",
     "Grapes",
-    "Honey"
+    "Herbs"
 ]
 
 print(groceries.__new__)
