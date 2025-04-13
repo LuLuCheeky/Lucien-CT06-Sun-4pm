@@ -5,4 +5,6 @@ groceries.insert(1,"Bananas")
 del(groceries[2])
 print(groceries)
 for grocery in groceries:
-    print(groceries[grocery - 1])
+    print(grocery)
+    if grocery == "Apples"
+    
