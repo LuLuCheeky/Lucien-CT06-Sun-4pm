@@ -152,5 +152,3 @@ while True:
     if guess == answer:
         print("Correct!")
         break
-    else:
-        print("Incorrect :(")
