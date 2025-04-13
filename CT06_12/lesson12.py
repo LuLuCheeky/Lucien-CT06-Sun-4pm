@@ -150,4 +150,7 @@ while True:
     answer = var1 + var1
     guess = int(input("What is " + str(var1) + " + " + str(var2) + "? "))
     if guess == answer:
+        print("Correct!")
         break
+    else:
+        
