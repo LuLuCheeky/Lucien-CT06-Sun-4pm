@@ -8,7 +8,7 @@ for grocery in groceries:
     print(grocery)
     if grocery == "Apples":
         print("I need 5 of these.")
-    if grocery == "Carrots":
+    elif grocery == "Carrots":
         print("I need 3 of these.")
-    if grocery == "Grapes":
+    elif grocery == "Grapes":
         print("Get the FarmFresh brand.")
