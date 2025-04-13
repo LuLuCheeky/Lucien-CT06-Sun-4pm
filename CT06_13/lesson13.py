@@ -8,5 +8,4 @@ groceries = [
     "Grapes",
     "Herbs"
 ]
-
-print(groceries.__new__)
+g
