@@ -4,8 +4,8 @@ window = turtle.Screen()
 window.setup(width=600, height=400)
 
 t = turtle.Turtle()
-t.shape("lion")
-t.fillcolor("orange")
+t.shape("turtle")
+t.fillcolor("")
 t.speed(60)
 
 window.mainloop()
