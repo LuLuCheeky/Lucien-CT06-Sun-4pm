@@ -11,14 +11,14 @@ del(groceries[2])
 #    these"
 # 4. If name == "Grapes", print "<grocery name>: Get the FarmFresh
 #    brand"
-for grocery in groceries:
-    print(grocery)
-    if grocery == "Apples":
-        print("I need 5 of these.")
-    elif grocery == "Carrots":
-        print("I need 3 of these.")
-    elif grocery == "Grapes":
-        print("Get the FarmFresh brand.")
+# for grocery in groceries:
+#     print(grocery)
+#     if grocery == "Apples":
+#         print("I need 5 of these.")
+#     elif grocery == "Carrots":
+#         print("I need 3 of these.")
+#     elif grocery == "Grapes":
+#         print("Get the FarmFresh brand.")
 
 # Task 4: Online Catalogue
 # **Task 4a**:
@@ -28,7 +28,8 @@ for grocery in groceries:
 #    input the items their online catalogue should have.
 # 3. Add each item into the catalogue list
 # 4. End the loop when the user types "end"
-
+while True:
+    
 
 
 
