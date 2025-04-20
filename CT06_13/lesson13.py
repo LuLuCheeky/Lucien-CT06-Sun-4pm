@@ -73,6 +73,7 @@ while True:
         break
     elif inputUser in OnSale:
         print("Yes, we sell that.")
+        Catalogue.append()
     else:
         print("We don't sell that.")
         break
