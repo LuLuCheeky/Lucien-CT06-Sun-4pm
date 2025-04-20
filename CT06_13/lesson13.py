@@ -71,9 +71,11 @@ while True:
     inputUser = input("What item do you want to buy? ")
     if inputUser == "end":
         break
+    elif inputUser in OnSale:
+        print("Yes, we sell that.")
     else:
-        Catalogue.append(inputUser)
-for grocery in Catalogue:
-    print(grocery)
+        break
+    
+
 
 
