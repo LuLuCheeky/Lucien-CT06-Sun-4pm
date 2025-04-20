@@ -77,7 +77,7 @@ while True:
     else:
         print("We don't sell that.")
 for items in Catalogue:
-    print()
+    print(items)
 
 
 
