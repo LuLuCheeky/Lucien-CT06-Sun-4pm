@@ -29,7 +29,7 @@ del(groceries[2])
 # 3. Add each item into the catalogue list
 # 4. End the loop when the user types "end"
 while True:
-    inputUser = input("What it")
+    inputUser = input("What item do you want to buy?")
 
 
 
