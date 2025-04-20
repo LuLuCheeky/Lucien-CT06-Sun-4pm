@@ -28,17 +28,17 @@ del(groceries[2])
 #    input the items their online catalogue should have.
 # 3. Add each item into the catalogue list
 # 4. End the loop when the user types "end"
-Catalogue = [
+# Catalogue = [
  
-]
-while True:
-    inputUser = input("What item do you want to buy? ")
-    if inputUser == "end":
-        break
-    else:
-        Catalogue.append(inputUser)
-for grocery in Catalogue:
-    print(grocery)
+# ]
+# while True:
+#     inputUser = input("What item do you want to buy? ")
+#     if inputUser == "end":
+#         break
+#     else:
+#         Catalogue.append(inputUser)
+# for grocery in Catalogue:
+#     print(grocery)
 
 
 
