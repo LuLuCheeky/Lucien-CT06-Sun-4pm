@@ -74,7 +74,7 @@ while True:
     elif inputUser in OnSale:
         print("Yes, we sell that.")
     else:
-        
+        print("We don't sell that.")
         break
 
 
