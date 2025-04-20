@@ -59,7 +59,8 @@ OnSale = [
     "Idk"
     "IDK"
     "idk"
-    ""
+    "iDK"
+    "IdK"
 ]
 
 
