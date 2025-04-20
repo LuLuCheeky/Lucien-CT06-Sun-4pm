@@ -52,3 +52,16 @@ for grocery in Catalogue:
 # 2. If the item is in the list, say "Yes we sell that."
 # 3. Else, say "Sorry, we don't have that."
 
+Catalogue = [
+ 
+]
+while True:
+    inputUser = input("What item do you want to buy? ")
+    if inputUser == "end":
+        break
+    else:
+        Catalogue.append(inputUser)
+for grocery in Catalogue:
+    print(grocery)
+
+
