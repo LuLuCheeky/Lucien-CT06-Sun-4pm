@@ -29,6 +29,9 @@ for grocery in groceries:
 # 3. Add each item into the catalogue list
 # 4. End the loop when the user types "end"
 
+
+
+
 # **Task 4b**:
 # Based on the list created by the grocery store manager, do the
 # following:
@@ -37,3 +40,4 @@ for grocery in groceries:
 #    Ask the customer: "What are you looking for?"
 # 2. If the item is in the list, say "Yes we sell that."
 # 3. Else, say "Sorry, we don't have that."
+
