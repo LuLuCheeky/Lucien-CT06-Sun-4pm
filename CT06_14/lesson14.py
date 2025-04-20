@@ -4,7 +4,7 @@ window = turtle.Screen()
 window.setup(width=600, height=400)
 
 t = turtle.Turtle()
-t.shape()
+t.forward()
 t.fillcolor("")
 t.speed(60)
 
