@@ -33,7 +33,7 @@ Catalogue = [
 ]
 while True:
     inputUser = input("What item do you want to buy?")
-    Catalogue
+    Catalogue.insert
     
 
 
