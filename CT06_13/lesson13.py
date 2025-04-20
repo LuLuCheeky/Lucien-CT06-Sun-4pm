@@ -52,6 +52,9 @@ for grocery in Catalogue:
 # 2. If the item is in the list, say "Yes we sell that."
 # 3. Else, say "Sorry, we don't have that."
 OnSale = [ 
+    "Poop"
+    "Burger with mayo all over"
+    "Milk"
     
 ]
 
