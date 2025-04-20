@@ -39,7 +39,7 @@ while True:
         Catalogue.append(inputUser)
 for grocery in Catalogue:
     print(grocery)
-    
+
 
 
 
