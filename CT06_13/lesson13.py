@@ -51,7 +51,9 @@ for grocery in Catalogue:
 #    Ask the customer: "What are you looking for?"
 # 2. If the item is in the list, say "Yes we sell that."
 # 3. Else, say "Sorry, we don't have that."
-On
+OnSale = [ 
+    
+]
 
 
 Catalogue = [
