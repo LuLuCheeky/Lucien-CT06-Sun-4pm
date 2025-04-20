@@ -6,4 +6,5 @@ window.mainloop
 
 t = turtle.Turtle
 t.shape("turtle")
-t.fillcolor()
+t.fillcolor("orange")
+t.speed(10)
