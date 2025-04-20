@@ -30,6 +30,7 @@ del(groceries[2])
 # 4. End the loop when the user types "end"
 while True:
     inputUser = input("What item do you want to buy?")
+    
 
 
 
