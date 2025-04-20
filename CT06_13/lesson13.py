@@ -56,7 +56,10 @@ OnSale = [
     "Burger with mayo all over"
     "Milk"
     "Gorilla Squishy"
-    
+    "Idk"
+    "IDK"
+    "idk"
+    ""
 ]
 
 
