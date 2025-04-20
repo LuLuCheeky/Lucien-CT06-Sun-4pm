@@ -74,6 +74,7 @@ while True:
     elif inputUser in OnSale:
         print("Yes, we sell that.")
         Catalogue.append(inputUser)
+        print("Anything else?")
     else:
         print("We don't sell that.")
         print("Anything else?")
