@@ -55,7 +55,7 @@ OnSale = [
     "Poop"
     "Burger with mayo all over"
     "Milk"
-    
+    "G"
 ]
 
 
