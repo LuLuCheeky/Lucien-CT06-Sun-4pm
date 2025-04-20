@@ -33,7 +33,11 @@ Catalogue = [
 ]
 while True:
     inputUser = input("What item do you want to buy?")
-    Catalogue.append("inputUser")
+    if inputUser == "end":
+        break
+    else:
+
+        Catalogue.append("inputUser")
     
 
 
