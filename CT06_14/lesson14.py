@@ -6,4 +6,4 @@ window.mainloop
 
 t = turtle.Turtle
 t.shape("turtle")
-t.fill
+t.fillcolor()
