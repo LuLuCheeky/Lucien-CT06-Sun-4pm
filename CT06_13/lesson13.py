@@ -32,7 +32,7 @@ Catalogue = [
  
 ]
 while True:
-    inputUser = input("What item do you want to buy?")
+    inputUser = input("What item do you want to buy? ")
     if inputUser == "end":
         break
     else:
