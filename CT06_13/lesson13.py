@@ -76,6 +76,8 @@ while True:
         Catalogue.append(inputUser)
     else:
         print("We don't sell that.")
+for items in Catalogue:
+    print()
 
 
 
