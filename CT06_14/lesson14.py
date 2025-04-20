@@ -1,2 +1,3 @@
 import turtle
 
+turtle.Screen()
