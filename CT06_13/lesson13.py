@@ -36,8 +36,8 @@ while True:
     if inputUser == "end":
         break
     else:
-
         Catalogue.append("inputUser")
+        
     
 
 
