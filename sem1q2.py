@@ -26,3 +26,4 @@ print(planets[2])
 
 #task 2
 planets.append("neptune")
+print(planets)
