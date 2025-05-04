@@ -27,6 +27,7 @@ print(planets[2])
 #task 2
 planets.append("neptune")
 
-#task3
+#task 3
 planets[3] = "muskworld"
-print(planets)
+
+#task 4
