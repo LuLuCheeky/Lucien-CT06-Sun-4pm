@@ -28,5 +28,4 @@ print(planets[2])
 planets.append("neptune")
 
 #task3
-planets.index[3, "muskworld"]
-print(plant)
+planets.index[
