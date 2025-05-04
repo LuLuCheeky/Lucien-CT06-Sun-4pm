@@ -29,3 +29,4 @@ planets.append("neptune")
 
 #task3
 planets[3] = "muskworld"
+print(planets)
