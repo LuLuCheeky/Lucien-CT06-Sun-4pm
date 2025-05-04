@@ -31,4 +31,7 @@
 ##########################################
 num1 = 10
 while True:
-    print(n)
+    print(num1)
+    num1 =+ 10
+    if num1 == 200:
+        break
