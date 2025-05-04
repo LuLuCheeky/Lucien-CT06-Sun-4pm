@@ -31,7 +31,7 @@ planets.append("neptune")
 planets[3] = "muskworld"
 
 #task 4
-
+del
 
 #task 5
 for planet in planets:
