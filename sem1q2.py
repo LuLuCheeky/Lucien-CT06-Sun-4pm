@@ -24,4 +24,5 @@ planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 #task 1
 print(planets[2])
 
-#
+#task 2
+
