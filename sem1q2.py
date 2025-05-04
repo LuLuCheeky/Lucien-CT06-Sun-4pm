@@ -22,4 +22,4 @@ planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
 
-print(plane)
+print(planets[2])
