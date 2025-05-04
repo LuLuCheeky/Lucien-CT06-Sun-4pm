@@ -35,4 +35,4 @@ planets.pop[6]
 
 #task 5
 for planet in planets:
-
+    print(planet)
