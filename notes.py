@@ -179,5 +179,11 @@ if num == 10:
     print("The number is 10")
 #This will print "The number is 10" since num is 10
 #Elses
-#Elses can be used to check if a condition is false when the if condition is false
+#Elses can be used to check if a condition is true when the if condition is false
+#Example of an else statement
+num = 10
+if num == 5:
+    print("The number is 5")
+else:
+    print("The number is not 5")
 
