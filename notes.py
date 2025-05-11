@@ -228,5 +228,5 @@ else:
 #Lists
 #Lists are basically  variables that can store more than one thing
 #Example of a list
-
+classmates = ["John", "Jane", "Jim", "Jack"]
 
