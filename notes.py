@@ -213,6 +213,9 @@ print("Hello " + name + "!")
 #This will print "Hello <name>!" where <name> is the name entered by the user
 #You can also use inputs to get numbers from the user too
 #Example of an input with integers
+num = int(input("Enter a number: "))
+print("The number is " + str(num))
+#This will print "The number is <num>" where <num> is the number entered by the user
 
 
 
