@@ -45,6 +45,6 @@ print(String1 + " " + String2)
 name = "John"
 age = 25
 print(f"My name is {name} and I am {age} years old.")
-#Strings can be split
-string = "Hello World!"
-print(string.split(" "))
+
+
+#Integers anb
