@@ -260,6 +260,11 @@ classmates.pop(2)
 for classmate in classmates:
     print(classmate)
 #This will print John Jane Jim Jack
-#How 
+#Sort
+#Sort is used to sort a list
+classmates.sort()
+for classmate in classmates:
+    print(classmate)
+    
 
 
