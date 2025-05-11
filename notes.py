@@ -57,7 +57,9 @@ print(div1 / div2)
 
 #Variables
 #Variables can be a string, int or float
-#They are used 
+#They are used to store data
+#Variables can be named anything but must start with a letter or underscore
+#
 num = "Im blue"
 num2 = 15
 num3 = 3.141592654
