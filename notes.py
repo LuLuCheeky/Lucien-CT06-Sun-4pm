@@ -210,5 +210,7 @@ else:
 #Example of an input
 name = input("What is your name? ")
 print("Hello " + name + "!")
+#This will print "Hello <name>!" where <name> is the name entered by the user
+
 
 
