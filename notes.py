@@ -298,5 +298,5 @@ for classmate in classmates:
 #This will print an empty list
 #Delete
 #Delete is used to delete a list
-del classmates
+del [classmates, 3]
 #This will delete the list
