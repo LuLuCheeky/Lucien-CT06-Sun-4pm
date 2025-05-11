@@ -59,7 +59,7 @@ print(div1 / div2)
 #Variables can be a string, int or float
 #They are used to store data
 #Variables can be named anything but must start with a letter or underscore
-#
+#You can declare a variable like this:
 num = "Im blue"
 num2 = 15
 num3 = 3.141592654
@@ -69,5 +69,6 @@ print(num3)
 #Variables can be changed
 num = "Im not blue anymore"
 print(num)
+#Variables can be reassigned
 
 
