@@ -242,5 +242,10 @@ classmates.append("Jill")
 for classmate in classmates:
     print(classmate)
 #This will print John Jane Jim Jack Jill
+#Insert
+#Insert is used to add an item to a specific index in a list
+classmates.insert(2, "Jane")
+for classmate in classmates:
+    print(classmate)
 
 
