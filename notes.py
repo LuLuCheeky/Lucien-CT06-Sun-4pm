@@ -160,5 +160,8 @@ print("Happy New Year!")
 #Ifs
 #Ifs can be used to check if a condition is true
 #Example of an if statement
-
+num = 10
+if num == 10:
+    print("The number is 10")
+#This will print "The number is 10"
 
