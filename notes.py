@@ -256,6 +256,9 @@ for classmate in classmates:
 #This will print John Jane Jim Jack Jill
 #Pop
 #Pop is used to remove an item from a specific index in a list
-
+classmates.pop(2)
+for classmate in classmates:
+    print(classmate)
+#This will print John Jane Jim Jack
 
 
