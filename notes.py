@@ -23,4 +23,6 @@ print(num)
 #Types
 #There are 3 types of variables
 #String
-#Int
+#Integer
+#Float
+#and Va
