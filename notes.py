@@ -106,5 +106,5 @@ for i in string:
 for i in range(1, 10):
     print(i)
 #This will print the numbers 1 to 9
-#Note t
+#Note that the range function is exclusive of the last number
 
