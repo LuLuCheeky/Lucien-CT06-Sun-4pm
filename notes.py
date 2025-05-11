@@ -62,4 +62,8 @@ print(sub1 - sub2)
 mul1 = 5
 mul2 = 3
 print(mul1 * mul2)
+div1 = 10
+div2 = 2
+print(div1 / div2)
+
 
