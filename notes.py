@@ -44,4 +44,4 @@ print(String1 + " " + String2)
 #Strings can be formatted
 name = "John"
 age = 25
-print("My name is {} and I am {} years old".format(name, age))
+print(f)
