@@ -94,6 +94,7 @@ print("Total: " + str(Total))
 #Example of mod
 num1 = 10
 print(num1 % 3)
+#This will print 1 since 10 divided by 3 is 3 with a remainder of 1
 
 
 #For loops
