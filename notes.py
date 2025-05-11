@@ -71,6 +71,6 @@ num = "Im not blue anymore"
 print(num)
 
 #Math functions in python
-#
+#PEMDAS is used for operations (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction)
 
 
