@@ -188,5 +188,10 @@ else:
     print("The number is not 5")
 #This will print "The number is not 5" since num is not 5
 #Elifs
-#Elifs can be used to check if a condition is true when the if condition is false and sometimes when the else condion
+#Elifs can be used to check if a condition is true when the if condition is false
+#Example of an elif statement
+num = 10
+if num == 5:
+    print("The number is 5")
+    
 
