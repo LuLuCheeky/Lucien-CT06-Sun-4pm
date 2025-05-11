@@ -7,19 +7,6 @@ print(699)
 num = "Hi!"
 print(num)
 
-#Variables
-#Variables can be a string, int or float
-num = "Im blue"
-num2 = 15
-num3 = 3.141592654
-print(num)
-print(num2)
-print(num3)
-#Variables can be changed
-num = "Im not blue anymore"
-print(num)
-
-
 #Types
 #There are 3 types of code in Python
 #String
