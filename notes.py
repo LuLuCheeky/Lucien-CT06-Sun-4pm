@@ -120,3 +120,8 @@ for var in my_list:
 
 #While loops
 #While loops are used to execute a block of code as long as a condition is true
+#Example of a while loop
+count = 0
+while count < 5:
+    print("Hello World!")
+    count += 1
