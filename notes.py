@@ -241,6 +241,6 @@ for classmate in classmates:
 classmates.append("Jill")
 for classmate in classmates:
     print(classmate)
-#This will print 
+#This will print John Jane Jim Jack Jill
 
 
