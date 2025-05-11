@@ -84,4 +84,5 @@ Price = 10
 Quantity = 5
 Total = Price * Quantity
 print("Total: " + str(Total))
+#Note: 
 
