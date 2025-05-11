@@ -276,6 +276,7 @@ for classmate in classmates:
 #Count is used to count the number of times an item appears in a list
 classmates.count("John")
 #This will print the number of times John appears in the list
-
+#Index
+#Index is used to get the index of an item in a list
 
 
