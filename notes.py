@@ -33,4 +33,6 @@ print(type(num3))
 
 #Strings
 #Strings are a sequence of characters
-
+string = "Hello World!"
+#Strings can be sliced
+print(string[0:5]) #Hello
