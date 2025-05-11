@@ -41,3 +41,7 @@ print(string[6:])
 String1 = "Hello"
 String2 = "World!"
 print(String1 + " " + String2)
+#Strings can be formatted
+name = "John"
+age = 25
+print("My name is {} and I am {} years old".format(name, age))
