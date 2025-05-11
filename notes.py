@@ -86,6 +86,7 @@ Total = Price * Quantity
 print("Total: " + str(Total))
 #Note: You cannot put dollars sign ($) for code
 
+
 #For loops
 #For loops are used to iterate over a sequence (list, tuple, dictionary, set, or string)
 #Example of a for loop
@@ -97,3 +98,4 @@ string = "Hello World!"
 for i in string:
     print(i)
 #This will print each character in the string "Hello World!" one by one
+
