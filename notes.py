@@ -93,4 +93,7 @@ for i in range(5):
     print("Hello World!")
 #This will print "Hello World!" 5 times
 #You can also use a for loop to print the words in a string one by one
-
+string = "Hello World!"
+for i in string:
+    print(i)
+#This will print each character in the string "Hello World!" one by one
