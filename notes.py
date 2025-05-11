@@ -81,5 +81,7 @@ print(num)
 #You can use these in python
 #Example of code that can be used in stores:
 Price = 10
-Q
+Quantity = 5
+Total = Price * Quantity
+print("Total: " + str(Total))
 
