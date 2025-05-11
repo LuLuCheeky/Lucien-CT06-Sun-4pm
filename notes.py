@@ -235,6 +235,9 @@ print(classmates)
 for classmate in classmates:
     print(classmate)
 #This will print each classmate in the list
+#Different functions of lists
+#Append
+#Append is used to add an item to the end of a list
 
 
 
