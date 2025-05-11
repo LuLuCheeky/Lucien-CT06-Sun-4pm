@@ -231,5 +231,5 @@ else:
 classmates = ["John", "Jane", "Jim", "Jack"]
 #for loops can be used to iterate over a list
 for classmate in classmates:
-    print(i)
+    print(classmate)
 
