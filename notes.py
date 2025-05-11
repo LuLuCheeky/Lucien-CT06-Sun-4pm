@@ -211,6 +211,8 @@ else:
 name = input("What is your name? ")
 print("Hello " + name + "!")
 #This will print "Hello <name>!" where <name> is the name entered by the user
+#You can also use inputs to get numbers from the user too
+#Example of an input with integers
 
 
 
