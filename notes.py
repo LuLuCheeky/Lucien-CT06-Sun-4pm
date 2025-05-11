@@ -114,5 +114,6 @@ for i in range(1, 11):
 #You can also use a for loop to iterate over a list
 my_list = [1, 2, 3, 4, 5]
 for var in my_list:
-    print(i)
+    print(var)
+    
 
