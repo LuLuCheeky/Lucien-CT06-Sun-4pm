@@ -13,7 +13,9 @@ print(num)
 #Integer and Float
 #and Variables
 #You can check the type of a variable with the type() function
-num = "H"
+num = "Hello World!"
+num2 = 42
+num3 = 3.14
 print(type(num))
 print(type(num2))
 print(type(num3))
