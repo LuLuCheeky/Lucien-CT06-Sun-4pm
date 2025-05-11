@@ -199,5 +199,11 @@ else:
     print("The number is not 5 or 10") #Here the else has to be added in the end else if its not in the middle it could cancel off the elif
 
 
+#Oops I fogot about inputs
+#Inputs
+#Inputs are used to get data from the user
+#Example of an input
+name = input("What is your name? ")
+print("Hello " + name)
 
 
