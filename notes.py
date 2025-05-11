@@ -238,6 +238,8 @@ for classmate in classmates:
 #Different functions of lists
 #Append
 #Append is used to add an item to the end of a list
-
+classmates.append("Jill")
+print(classmates)
+#This will print ["John", "Jane", "Jim", "Jack", "Jill"]
 
 
