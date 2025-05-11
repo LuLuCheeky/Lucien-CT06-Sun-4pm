@@ -13,3 +13,4 @@ num = "Im blue"
 num2 = 15
 num3 = 3.141592654
 #Variables can be changed
+num = "Im not blue anymore"
