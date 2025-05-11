@@ -155,6 +155,8 @@ while True:
     count -= 1
 print("Happy New Year!")
 
-#If else and elifs
 
+#If else and elifs
+#Ifs
+#IFs 
 
