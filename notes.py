@@ -22,7 +22,9 @@ print(type(num2))
 print(type(num3))
 #Some prints using string concatentation
 name = input("What is your name? ")
-brith = int(input("What is your birth year? "))
+brith = int(input("When were you born? "))
+age = 2025 - brith
+print("Hello " + name + "! You are " + str(age) + " years old.")
 
 
 #Strings
