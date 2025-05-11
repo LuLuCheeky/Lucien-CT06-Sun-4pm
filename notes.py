@@ -79,7 +79,5 @@ print(num)
 #Addition +
 #Subtraction -
 #You can use these in python
-#Example:
-num1 = 17
-plankton = 3
+#Example of code in s
 
