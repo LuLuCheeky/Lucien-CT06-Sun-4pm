@@ -266,5 +266,16 @@ classmates.sort()
 for classmate in classmates:
     print(classmate)
 #This will print the list in alphabetical order
+#Reverse
+#Reverse is used to reverse a list
+classmates.reverse()
+for classmate in classmates:
+    print(classmate)
+#This will print the list in reverse order
+#Count
+#Count is used to count the number of times an item appears in a list
+classmates.count("John")
+#This will print the number of times John appears in the list
+
 
 
