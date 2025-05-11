@@ -81,4 +81,5 @@ print(num)
 #You can use these in python
 #Example:
 num1 = 17
+plankton = 3
 
