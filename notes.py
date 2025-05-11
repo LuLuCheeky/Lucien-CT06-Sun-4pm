@@ -25,4 +25,4 @@ print(num)
 #String
 #Integer
 #Float
-#and Va
+#and Variables
