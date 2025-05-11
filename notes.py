@@ -278,5 +278,25 @@ classmates.count("John")
 #This will print the number of times John appears in the list
 #Index
 #Index is used to get the index of an item in a list
+classmates.index("John")
+#This will print the index of John in the list
+#Length
+#Length is used to get the length of a list
+len(classmates)
+#This will print the length of the list
+#Copy
+#Copy is used to copy a list
+classmates2 = classmates.copy()
+for classmate in classmates2:
+    print(classmate)
+#This will print the list
+#Clear
+#Clear is used to clear a list
+classmates.clear()
+for classmate in classmates:
+    print(classmate)
+#This will print an empty list
+#Tuples
+#Tuples are similar to lists but are immutable (cannot be changed)
 
 
