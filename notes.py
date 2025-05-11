@@ -91,6 +91,9 @@ print("Total: " + str(Total))
 #Note: You cannot put dollars sign ($) for code
 #one more thing: Mod
 #Mod (or modulus) is used to get the remainder of a division
+#Example of mod
+num1 = 10
+print(num1 % 3)
 
 
 #For loops
