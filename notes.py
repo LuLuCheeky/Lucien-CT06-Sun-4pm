@@ -117,3 +117,6 @@ for var in my_list:
     print(var)
 #This will print each number in the list
 
+
+#While loops
+#While loops are used to execute a block of code as long as a condition is true
