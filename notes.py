@@ -163,5 +163,6 @@ print("Happy New Year!")
 num = 10
 if num == 10:
     print("The number is 10")
-#This will print "The number is 10" since num 
+#This will print "The number is 10" since num is 10
+
 
