@@ -126,4 +126,10 @@ while count < 5:
     print("Hello World!")
     count += 1
 #This will print "Hello World!" uncil the variable count is equal to 5
+#You can also use a while loop to print the numbers 1 to 10
+count = 1
+while count <= 10:
+    print(count)
+    count += 1
+#This will print the numbers 1 to 10
 
