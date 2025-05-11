@@ -90,5 +90,6 @@ print("Total: " + str(Total))
 #For loops are used to iterate over a sequence (list, tuple, dictionary, set, or string)
 #Example of a for loop
 for i in range(5):
-    print("")
+    print("Hello World!")
+#This will print "Hello World!" 5 times
 
