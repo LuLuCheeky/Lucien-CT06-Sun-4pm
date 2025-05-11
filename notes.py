@@ -179,5 +179,5 @@ if num == 10:
     print("The number is 10")
 #This will print "The number is 10" since num is 10
 #Elses
-
+#Elses can be used to check if a condition is false when the if condition is false
 
