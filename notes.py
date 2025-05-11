@@ -300,4 +300,3 @@ for classmate in classmates:
 #Delete is used to delete a list
 del classmates
 #This will delete the list
-#This will give an error since the list is deleted
