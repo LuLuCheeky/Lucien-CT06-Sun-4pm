@@ -50,4 +50,7 @@ print(f"My name is {name} and I am {age} years old.")
 #Integers and Floats
 #Integers are whole numbers
 num1 = 17
+#Floats are decimal numbers
+num2 = 3.14
+#Integers and Floats can be added, subtracted, multiplied and divided
 
