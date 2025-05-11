@@ -57,6 +57,7 @@ print(div1 / div2)
 
 #Variables
 #Variables can be a string, int or float
+#They are used 
 num = "Im blue"
 num2 = 15
 num3 = 3.141592654
