@@ -103,5 +103,8 @@ for i in string:
     print(i)
 #This will print each character in the string "Hello World!" one by one
 #Another example of a for loop for range
-
+for i in range(1, 10):
+    print(i)
+#This will print the numbers 1 to 9
+#Note t
 
