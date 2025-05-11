@@ -80,6 +80,6 @@ print(num)
 #Subtraction -
 #You can use these in python
 #Example of code that can be used in stores:
-#Price = 10
-#Quantity = 5
+Price = 10
+Q
 
