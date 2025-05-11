@@ -107,4 +107,9 @@ for i in range(1, 10):
     print(i)
 #This will print the numbers 1 to 9
 #Note that the range function is exclusive of the last number
+#If you want it to include the last number, you can do this:
+for i in range(1, 11):
+    print(i)
+#This will print the numbers 1 to 10
+
 
