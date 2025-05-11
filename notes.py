@@ -111,7 +111,9 @@ for i in range(1, 10):
 for i in range(1, 11):
     print(i)
 #This will print the numbers 1 to 10
-#This is 
+#This is also useful for something like a newyear countdown
+for i in range(10, 0, -1):
+    print(i)
 #You can also use a for loop to iterate over a list
 my_list = [1, 2, 3, 4, 5]
 for var in my_list:
