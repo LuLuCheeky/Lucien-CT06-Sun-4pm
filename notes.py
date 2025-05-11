@@ -65,5 +65,12 @@ print(mul1 * mul2)
 div1 = 10
 div2 = 2
 print(div1 / div2)
+#Integers and Floats can be converted to each other
+int_num = 5
+float_num = 3.14
+int_to_float = float(int_num)
+float_to_int = int(float_num)
+print(int_to_float)
+print(float_to_int)
 
 
