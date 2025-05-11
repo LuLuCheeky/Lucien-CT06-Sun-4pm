@@ -70,6 +70,7 @@ print(num3)
 num = "Im not blue anymore"
 print(num)
 
+#Math functions in python
 
 
 
