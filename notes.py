@@ -55,5 +55,16 @@ div1 = 10
 div2 = 2
 print(div1 / div2)
 
+#Variables
+#Variables can be a string, int or float
+num = "Im blue"
+num2 = 15
+num3 = 3.141592654
+print(num)
+print(num2)
+print(num3)
+#Variables can be changed
+num = "Im not blue anymore"
+print(num)
 
 
