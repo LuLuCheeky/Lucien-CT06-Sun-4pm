@@ -222,5 +222,6 @@ if num % 2 == 0:
     print("The number is even")
 else:
     print("The number is odd")
+#This will print "The number is even" or "The number is odd" depending on the number entered by the user
 
 
