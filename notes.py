@@ -132,4 +132,7 @@ while count <= 10:
     print(count)
     count += 1
 #This will print the numbers 1 to 10
-
+#To make a forever loop, you can do this:
+while True:
+    print("Hello World!")
+#This will print "Hello World!" forever
