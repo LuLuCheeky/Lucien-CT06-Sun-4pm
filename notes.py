@@ -36,3 +36,4 @@ print(type(num3))
 string = "Hello World!"
 #Strings can be sliced
 print(string[0:5]) #Hello
+print(string[6:]) #World!
