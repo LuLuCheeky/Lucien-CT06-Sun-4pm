@@ -89,7 +89,8 @@ Quantity = 5
 Total = Price * Quantity
 print("Total: " + str(Total))
 #Note: You cannot put dollars sign ($) for code
-#
+#one more thing: Mod
+#Mod (or modulus) is used to get the remainder of a division
 
 
 #For loops
