@@ -20,7 +20,9 @@ num3 = 3.14
 print(type(num))
 print(type(num2))
 print(type(num3))
-#
+#Some prints using string concatentation
+name = input("What is your name? ")
+
 
 
 #Strings
