@@ -248,5 +248,10 @@ classmates.insert(2, "Jane")
 for classmate in classmates:
     print(classmate)
 #This will print John Jane Jane Jim Jack Jill
+#Remove
+#Remove is used to remove an item from a list
+classmates.remove("Jane")
+for classmate in classmates:
+    print(classmate)
 
 
