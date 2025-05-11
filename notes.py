@@ -226,5 +226,7 @@ else:
 
 
 #Lists
-#Lists are used to store multiple items in a single variable``
+#Lists are basically  variables that can store more than one thing
+#Example of a list
+
 
