@@ -20,7 +20,7 @@ num = "Im not blue anymore"
 print(num)
 
 
-#Types-
+#Types
 #There are 3 types of variables
 #String
 #Integer
