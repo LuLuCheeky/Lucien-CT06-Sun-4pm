@@ -37,3 +37,4 @@ string = "Hello World!"
 #Strings can be sliced
 print(string[0:5])
 print(string[6:])
+
