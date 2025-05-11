@@ -195,5 +195,6 @@ if num == 5:
     print("The number is 5")
 elif num == 10:
     print("The number is 10")
-#
+else:
+    print("The number is not 5 or 10") #Here the else is optional
 
