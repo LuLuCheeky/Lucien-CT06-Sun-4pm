@@ -21,10 +21,9 @@ print(num)
 
 
 #Types
-#There are 3 types of variables
+#There are 3 types of code in Python
 #String
-#Integer
-#Float
+#Integer and Float
 #You can check the type of a variable with the type() function
 print(type(num))
 print(type(num2))
