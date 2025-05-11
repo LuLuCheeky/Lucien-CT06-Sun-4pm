@@ -253,5 +253,9 @@ for classmate in classmates:
 classmates.remove("Jane")
 for classmate in classmates:
     print(classmate)
+#This will print John Jane Jim Jack Jill
+#Pop
+#Pop is used to remove an item from a specific index in a list
+
 
 
