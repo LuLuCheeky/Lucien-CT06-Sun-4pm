@@ -150,7 +150,10 @@ while True:
 count = 10
 while True:
     print(count)
-    if count == 0:
+    if count == 1:
         break
     count -= 1
+print("Happy New Year!")
+
+
 
