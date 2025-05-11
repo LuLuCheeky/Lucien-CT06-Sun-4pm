@@ -7,6 +7,7 @@ print(699)
 num = "Hi!"
 print(num)
 
+
 #Types
 #There are 3 types of code in Python
 #String
@@ -19,6 +20,7 @@ num3 = 3.14
 print(type(num))
 print(type(num2))
 print(type(num3))
+
 
 #Strings
 #Strings are a sequence of characters
