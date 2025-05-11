@@ -123,4 +123,3 @@ for key, value in my_dict.items():
 #This will print each key and value in the dictionary
 #You can also use a for loop to iterate over a set
 
-
