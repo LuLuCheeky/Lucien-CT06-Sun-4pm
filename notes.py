@@ -56,4 +56,6 @@ num2 = 3.14
 add1 = 15
 add2 = 12
 print(add1 + add2)
+sub1 = 32
+
 
