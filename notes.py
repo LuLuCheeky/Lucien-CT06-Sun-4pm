@@ -204,6 +204,6 @@ else:
 #Inputs are used to get data from the user
 #Example of an input
 name = input("What is your name? ")
-print("Hello " + name)
+print("Hello " + name + "!")
 
 
