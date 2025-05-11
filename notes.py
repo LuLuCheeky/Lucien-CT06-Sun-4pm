@@ -198,3 +198,6 @@ elif num == 10:
 else:
     print("The number is not 5 or 10") #Here the else has to be added in the end else if its not in the middle it could cancel off the elif
 
+
+
+
