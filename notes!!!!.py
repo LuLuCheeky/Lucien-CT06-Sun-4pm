@@ -11,4 +11,5 @@ print(num)
 #Variables can be a string, int or float
 num = "Im blue"
 num2 = 15
-num3 = 3.1415
+num3 = 3.141592654
+#Variables can be changed
