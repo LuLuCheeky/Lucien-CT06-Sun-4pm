@@ -115,5 +115,12 @@ for i in range(1, 11):
 my_list = [1, 2, 3, 4, 5]
 for var in my_list:
     print(var)
-    
+#This will print each number in the list
+#You can also use a for loop to iterate over a dictionary
+my_dict = {"name": "John", "age": 25, "city": "New York"}
+for key, value in my_dict.items():
+    print(key + ": " + str(value))
+#This will print each key and value in the dictionary
+#You can also use a for loop to iterate over a set
+
 
