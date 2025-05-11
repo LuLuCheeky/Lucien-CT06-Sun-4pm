@@ -229,5 +229,7 @@ else:
 #Lists are basically  variables that can store more than one thing
 #Example of a list
 classmates = ["John", "Jane", "Jim", "Jack"]
-
+#for loops can be used to iterate over a list
+for classmate in classmates:
+    print(i)
 
