@@ -72,6 +72,12 @@ print(num)
 
 #Math functions in python
 #PEMDAS is used for operations (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction)
-#Parentheses()
-#Exponents**
+#Parentheses ()
+#Exponents **
+#Multiplication *
+#Division /
+#Addition +
+#Subtraction -
+#You can use these in python
+
 
