@@ -102,4 +102,6 @@ string = "Hello World!"
 for i in string:
     print(i)
 #This will print each character in the string "Hello World!" one by one
+#Another example of a for loop for range
+
 
