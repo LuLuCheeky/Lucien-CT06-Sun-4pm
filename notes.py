@@ -95,6 +95,14 @@ print("Total: " + str(Total))
 num1 = 10
 print(num1 % 3)
 #This will print 1 since 10 divided by 3 is 3 with a remainder of 1
+#You can also use the mod operator to check if a number is even or odd
+#Example of checking if a number is even or odd
+num = 10
+if num % 2 == 0:
+    print("The number is even")
+else:
+    print("The number is odd")
+#This will print "The number is even" since 10 is even
 
 
 #For loops
