@@ -92,4 +92,4 @@ print("Total: " + str(Total))
 for i in range(5):
     print("Hello World!")
 #This will print "Hello World!" 5 times
-
+#You can also use a for loop to
