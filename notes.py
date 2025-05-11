@@ -260,5 +260,6 @@ classmates.pop(2)
 for classmate in classmates:
     print(classmate)
 #This will print John Jane Jim Jack
+#How 
 
 
