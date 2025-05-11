@@ -35,5 +35,5 @@ print(type(num3))
 #Strings are a sequence of characters
 string = "Hello World!"
 #Strings can be sliced
-print(string[0:5]) #Hello
-print(string[6:]) #World!
+print(string[0:5])
+print(string[6:])
