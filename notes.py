@@ -178,5 +178,6 @@ num = 10
 if num == 10:
     print("The number is 10")
 #This will print "The number is 10" since num is 10
+#Elses
 
 
