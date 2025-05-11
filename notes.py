@@ -37,4 +37,7 @@ string = "Hello World!"
 #Strings can be sliced
 print(string[0:5])
 print(string[6:])
+#Strings can be concatenated
+String1 = "Hello"
+String2 = "World!"
 
