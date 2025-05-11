@@ -217,6 +217,10 @@ num = int(input("Enter a number: "))
 print("The number is " + str(num))
 #This will print "The number is <num>" where <num> is the number entered by the user
 #Lets make it more complex so that it also checks whether the number is even or odd using mod and if else
-num = int(input("Enter a number: "))
+num = int(input("Enter a number to check if its a odd or even: "))
+if num % 2 == 0:
+    print("The number is even")
+else:
+    print("The number is odd")
 
 
