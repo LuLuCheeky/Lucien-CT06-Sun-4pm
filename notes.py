@@ -55,6 +55,7 @@ div1 = 10
 div2 = 2
 print(div1 / div2)
 
+
 #Variables
 #Variables can be a string, int or float
 #They are used to store data
@@ -69,6 +70,7 @@ print(num3)
 #Variables can be changed
 num = "Im not blue anymore"
 print(num)
+
 
 #Math functions in python
 #PEMDAS is used for operations (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction)
