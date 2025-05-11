@@ -40,4 +40,4 @@ print(string[6:])
 #Strings can be concatenated
 String1 = "Hello"
 String2 = "World!"
-
+print(String1 + " " + String2)
