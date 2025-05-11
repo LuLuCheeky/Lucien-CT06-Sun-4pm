@@ -22,4 +22,5 @@ print(num)
 
 #Types
 #There are 3 types of variables
-#Strin
+#String
+#Int
