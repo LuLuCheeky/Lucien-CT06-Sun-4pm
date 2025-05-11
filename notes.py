@@ -31,4 +31,6 @@ print(type(num))
 print(type(num2))
 print(type(num3))
 
+#Strings
+#Strings are a sequence of characters
 
