@@ -158,5 +158,7 @@ print("Happy New Year!")
 
 #If else and elifs
 #Ifs
-#IFs 
+#Ifs can be used to check if a condition is true
+#Example of an if statement
+
 
