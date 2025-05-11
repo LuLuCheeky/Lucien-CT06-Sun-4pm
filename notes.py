@@ -225,4 +225,6 @@ else:
 #This will print "The number is even" or "The number is odd" depending on the number entered by the user
 
 
+#Lists
+#Lists are used to store multiple items in a single variable``
 
