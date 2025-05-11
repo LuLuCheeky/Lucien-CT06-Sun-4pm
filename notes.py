@@ -26,3 +26,7 @@ print(num)
 #Integer
 #Float
 #and Variables
+#You can check the type of a variable with the type() function
+print(type(num))
+print(type(num2))
+print(type(num3))
