@@ -247,5 +247,6 @@ for classmate in classmates:
 classmates.insert(2, "Jane")
 for classmate in classmates:
     print(classmate)
+#This will print John Jane Jane Jim Jack Jill
 
 
