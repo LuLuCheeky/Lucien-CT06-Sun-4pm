@@ -133,8 +133,11 @@ while count <= 10:
     count += 1
 #This will print the numbers 1 to 10
 #To make a forever loop, you can do this:
-
+count = 0
 while True:
     print("Hello World!")
-
+    if count == 5:
+        break
+    count += 1
+    
 #This will print "Hello World!" forever
