@@ -53,4 +53,5 @@ num1 = 17
 #Floats are decimal numbers
 num2 = 3.14
 #Integers and Floats can be added, subtracted, multiplied and divided
-
+add1 = 15
+add2 
