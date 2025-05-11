@@ -57,5 +57,9 @@ add1 = 15
 add2 = 12
 print(add1 + add2)
 sub1 = 32
-
+sub2 = 12
+print(sub1 - sub2)
+mul1 = 5
+mul2 = 3
+print(mul1 * mul2)
 
