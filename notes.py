@@ -298,5 +298,10 @@ for classmate in classmates:
 #This will print an empty list
 #Tuples
 #Tuples are similar to lists but are immutable (cannot be changed)
+#Example of a tuple
+classmates = ("John", "Jane", "Jim", "Jack")
+#Printing a tuple
+print(classmates)
+#for loops can be used to iterate over a tuple
 
 
