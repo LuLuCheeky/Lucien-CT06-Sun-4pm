@@ -15,6 +15,4 @@ numbers = [1, 2, 3, 4, 5]
 
 for n in numbers:
     if isEven(n):
-        print(f"{n} is even")
-    else:
-        print(f"{n} is odd")
+        print(f"")
