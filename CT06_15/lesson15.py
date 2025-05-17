@@ -8,13 +8,15 @@
 # increment_counter()
 # print(counter)  
 
-def isEven(n):
-    return n % 2 == 0
+# def isEven(n):
+#     return n % 2 == 0
 
-numbers = [2345643, 2143564,1324565,112353]
+# numbers = [2345643, 2143564,1324565,112353]
 
-for n in numbers:
-    if isEven(n):
-        print(f"{n} is even")
-    else:
-        print(f"{n} is odd")
+# for n in numbers:
+#     if isEven(n):
+#         print(f"{n} is even")
+#     else:
+#         print(f"{n} is odd")
+
+
