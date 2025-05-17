@@ -20,3 +20,5 @@
 #         print(f"{n} is odd")
 num = int(input("Enter a number: "))
 num2 = int(input("Enter another number: "))
+def sumOfSquares(n1, n2):
+    return n1**2 + n2**2
