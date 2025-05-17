@@ -13,3 +13,5 @@ def isEven(n):
         print(f"{n} is even.")
     else:
         print(f"{n} is odd.")
+
+num = []
