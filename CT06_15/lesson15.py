@@ -10,6 +10,6 @@
 
 def isEven(n):
     if n % 2 == 0:
-        return True
+        print(f"{n}")
     else:
         return False
