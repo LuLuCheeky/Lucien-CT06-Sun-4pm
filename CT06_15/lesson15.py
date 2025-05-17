@@ -22,4 +22,4 @@
 def square(n):
     return n * n
 num = int(input("Enter a number: "))
-print()
+print(f"The square of {num} is {square(num)}")
