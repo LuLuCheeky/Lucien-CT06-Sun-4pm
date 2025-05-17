@@ -20,3 +20,6 @@ num = [
     23456,
     1243
 ]
+
+for i in range(len(num)):
+    num[]
