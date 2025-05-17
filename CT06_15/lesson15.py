@@ -11,4 +11,4 @@
 import turtle
 window = turtle.Screen()
 window.setup(width = 200, height = 200)
-t = turtle.Turtle()
+window.mainloop()
