@@ -8,8 +8,3 @@
 # increment_counter()
 # print(counter)  
 
-import turtle
-window = turtle.Screen()
-window.setup(width = 200, height = 200)
-artist = turtle.Turtle()
-window.mainloop()
