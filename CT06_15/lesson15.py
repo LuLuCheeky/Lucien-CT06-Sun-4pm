@@ -9,12 +9,4 @@
 # print(counter)  
 
 def isEven(n):
-    if n % 2 == 0:
-        print(f"{n} is even.")
-    else:
-        print(f"{n} is odd.")
-
-num = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-
-for i in range(len(num)):
-    isEven(i + 1)
+    return n % 2 == 0
