@@ -8,3 +8,15 @@
 # increment_counter()
 # print(counter)  
 
+def isEven(n):
+    if n % 2 == 0:
+        return True
+    else:
+        return False
+
+num = [
+    3,
+    8,
+    23456,
+    1243
+]
