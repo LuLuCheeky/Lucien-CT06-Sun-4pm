@@ -22,4 +22,4 @@ num = [
 ]
 
 for i in range(len(num)):
-    num[]
+    isEven(num[i + 1])
