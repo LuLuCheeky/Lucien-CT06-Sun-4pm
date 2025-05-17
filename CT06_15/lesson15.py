@@ -19,4 +19,6 @@
 #     else:
 #         print(f"{n} is odd")
 
+def square(n):
+    return n * n
 
