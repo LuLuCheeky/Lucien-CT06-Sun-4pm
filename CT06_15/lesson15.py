@@ -20,7 +20,7 @@
 #         print(f"{n} is odd")
 def sumOfSquares(n2):
     def square(n):
-     return n * n
+        return n * n
 num = int(input("Enter a number: "))
 num2 = int(input("Enter another number: "))
 print(f"The square of {num} is {square(num)}")
