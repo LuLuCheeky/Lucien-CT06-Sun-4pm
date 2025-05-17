@@ -3,4 +3,7 @@ def increment_counter():
     global counter
     counter += 1
 
-in
+increment_counter()
+increment_counter()
+increment_counter()
+print(counter)  
