@@ -22,3 +22,4 @@ num = int(input("Enter a number: "))
 num2 = int(input("Enter another number: "))
 def sumOfSquares(n1, n2):
     return n1**2 + n2**2
+print(f"The sum of squares of {num} and {num2} is {sumOfSquares(num, num2)}")
