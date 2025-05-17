@@ -21,5 +21,5 @@
 
 def square(n):
     return n * n
-in
-print
+num = int(input("Enter a number: "))
+print()
