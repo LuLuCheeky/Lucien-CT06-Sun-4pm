@@ -6,5 +6,7 @@ def setup_screen(screenWidth, screenHeight):
     window.setup(width=screenWidth, height=screenHeight)
     return window
 
-setupW = 
+setupW = 300
+setupH = 500
+
     
