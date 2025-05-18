@@ -12,8 +12,8 @@ def create_blue_ball():
     ball.penup()
     return ball
 def move_ball(ball, dx, dy):
-    ball.setx(ball.xcor() + x)
-    ball.sety(ball.ycor() + y)
+    ball.setx(ball.xcor() + dx)
+    ball.sety(ball.ycor() + dy)
 dx = 2
 dy = 2
 setupW = 300
