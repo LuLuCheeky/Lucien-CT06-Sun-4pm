@@ -19,5 +19,5 @@ setupW = 300
 setupH = 500
 window = setup_screen(setupW, setupH)
 ball = create_blue_ball()
-move_ball(ball, )
+move_ball(ball, 2, -7)
 window.mainloop()
