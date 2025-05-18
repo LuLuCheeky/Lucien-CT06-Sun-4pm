@@ -17,6 +17,9 @@ def move_ball(ball, dx, dy):
 def check_X(ball, screenWidth):
     if ball.xcor() > (screenWidth / 2) or ball.xcor() < (-screenWidth / 2):
         return True
+def check_y(ball, screenHeight):
+    if ball.ycor() > (screenHeight / 2) or ball.ycor() < (-screenHeight / 2):
+        return True
 dx = 2
 dy = 2
 setupW = 300
