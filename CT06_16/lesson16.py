@@ -10,5 +10,5 @@ setupW = 300
 setupH = 500
 window = setup_screen(setupW, setupH)
 
-screen.
+screen.mainloop()
     
