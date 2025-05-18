@@ -11,7 +11,8 @@ def create_blue_ball():
     ball.color("blue")
     ball.penup()
     return ball
-
+def move_ball(ball, x, y):
+    ball.set
 setupW = 300
 setupH = 500
 window = setup_screen(setupW, setupH)
