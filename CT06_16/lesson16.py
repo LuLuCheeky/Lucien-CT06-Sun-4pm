@@ -10,7 +10,6 @@ def create_blue_ball():
     ball.shape("circle")
     ball.color("blue")
     ball.penup()
-    ball.goto(0, 0)
     return ball
 def move_ball(ball, dx, dy):
     ball.setx(ball.xcor() + dx)
