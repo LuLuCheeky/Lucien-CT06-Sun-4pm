@@ -11,4 +11,3 @@ setupH = 500
 window = setup_screen(setupW, setupH)
 
 window.mainloop()
-    
