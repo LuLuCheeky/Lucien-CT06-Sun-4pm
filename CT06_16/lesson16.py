@@ -11,7 +11,6 @@ def create_blue_ball():
     ball.shape("circle")
     ball.color("blue")
     ball.penup()
-    ball.speed(0)
     return ball
 
 setupW = 300
