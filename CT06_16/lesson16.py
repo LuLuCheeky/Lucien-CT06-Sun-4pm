@@ -9,6 +9,7 @@ def create_blue_ball():
     ball = turtle.Turtle()
     ball.shape("circle")
     ball.color("blue")
+    
     ball.penup()
     return ball
 def move_ball(ball, dx, dy):
