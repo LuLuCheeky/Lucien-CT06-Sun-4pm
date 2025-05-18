@@ -13,7 +13,7 @@ def create_blue_ball():
     return ball
 def move_ball(ball, x, y):
     ball.setx(ball.xcor() + x)
-    ball.sety(ball.ycor())
+    ball.sety(ball.ycor() + y)
     ball.goto(x, y)
 setupW = 300
 setupH = 500
