@@ -26,4 +26,6 @@
 
 
 def greet(name):
-    print("Hello there, name , !"
+    ("Hello there, name , !")
+
+print
