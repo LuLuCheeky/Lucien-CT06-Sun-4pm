@@ -19,6 +19,7 @@ dy = 2
 setupW = 300
 setupH = 500
 window = setup_screen(setupW, setupH)
+window.title("Bouncing Ball")
 ball = create_blue_ball()
 while True:
     move_ball(ball, dx, dy)
