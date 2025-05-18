@@ -30,4 +30,6 @@ while True:
     move_ball(ball, dx, dy)
     if check_X(ball, setupW):
         dx *= -1
+    if check_y(ball, setupH):
+        dy *= -1
 window.mainloop()
