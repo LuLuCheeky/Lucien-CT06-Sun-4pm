@@ -14,6 +14,14 @@ def create_blue_ball():
 def move_ball(ball, dx, dy):
     ball.setx(ball.xcor() + dx)
     ball.sety(ball.ycor() + dy)
+def check_X(ball, screenWidth):
+    if ball.xcor() > screenWidth / 2:
+        ball.setx(screenWidth / 2)
+        return True
+    elif ball.xcor() < -screenWidth / 2:
+        ball.setx(-screenWidth / 2)
+        return True
+    return False
 dx = 2
 dy = 2
 setupW = 300
