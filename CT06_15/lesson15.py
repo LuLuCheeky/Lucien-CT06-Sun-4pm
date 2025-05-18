@@ -25,3 +25,5 @@
 # print(f"The sum of squares of {num} and {num2} is {sumOfSquares(num, num2)}")
 
 
+def greet(name):
+    print(f"Hello, {name}!")
