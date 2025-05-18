@@ -25,4 +25,6 @@ window = setup_screen(setupW, setupH)
 ball = create_blue_ball()
 while True:
     move_ball(ball, dx, dy)
+    if check_X(ball, setupW):
+        dx *= -1
 window.mainloop()
