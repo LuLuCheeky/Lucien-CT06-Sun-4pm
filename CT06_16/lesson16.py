@@ -9,8 +9,8 @@ def setup_screen(screenWidth, screenHeight):
         ball = turtle.Turtle()
         ball.shape("circle")
         ball.color("red")
-    ball.penup()
-    return ball
+        ball.penup()
+        return ball
 
 setupW = 300
 setupH = 500
